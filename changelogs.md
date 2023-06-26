@@ -1,3 +1,82 @@
+<h1>v0.4.0</h1>
+
+**Magic, QoL changes, new worldgen structures + more!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Aquaculture 2](https://www.curseforge.com/minecraft/mc-mods/aquaculture)
+- [Bountiful](https://www.curseforge.com/minecraft/mc-mods/bountiful)
+- [Caupona](https://www.curseforge.com/minecraft/mc-mods/caupona)
+- [Default Settings](https://www.curseforge.com/minecraft/mc-mods/defaultsettings)
+- [DimStorage](https://www.curseforge.com/minecraft/mc-mods/dimstorage)
+- [Double Doors](https://www.curseforge.com/minecraft/mc-mods/double-doors)
+- [Extended Mushrooms](https://www.curseforge.com/minecraft/mc-mods/extended-mushrooms)
+- [Functional Armor Trim](https://www.curseforge.com/minecraft/mc-mods/functional-armor-trim)
+- [Iron Ender Chests](https://www.curseforge.com/minecraft/mc-mods/iron-ender-chests)
+- [Iron's Spells 'n Spellbooks](https://www.curseforge.com/minecraft/mc-mods/irons-spells-n-spellbooks)
+- [Macaw's Trapdoors](https://www.curseforge.com/minecraft/mc-mods/macaws-trapdoors)
+- [Model Gap Fix](https://www.curseforge.com/minecraft/mc-mods/model-gap-fix)
+- [Modular Routers](https://www.curseforge.com/minecraft/mc-mods/modular-routers)
+- [More Buckets](https://www.curseforge.com/minecraft/mc-mods/more-buckets)
+- [Neruina](https://www.curseforge.com/minecraft/mc-mods/neruina)
+- [Screenshot to Clipboard](https://www.curseforge.com/minecraft/mc-mods/screenshot-to-clipboard)
+- [Silent's Gems](https://www.curseforge.com/minecraft/mc-mods/silents-gems)
+- [Simply Houses](https://www.curseforge.com/minecraft/mc-mods/simply-houses)
+- [Sky Villages](https://www.curseforge.com/minecraft/mc-mods/sky-villages-forge)
+- [TelePastries](https://www.curseforge.com/minecraft/mc-mods/telepastries)
+- [Tiny Item Animations](https://www.curseforge.com/minecraft/mc-mods/tiny-item-animations)
+- [Useful Slime](https://www.curseforge.com/minecraft/mc-mods/useful-slime)
+- [UtilitiX](https://www.curseforge.com/minecraft/mc-mods/utilitix)
+- [VanillaTweaks](https://www.curseforge.com/minecraft/mc-mods/vanillatweaks)
+- [Void Totem](https://www.curseforge.com/minecraft/mc-mods/voidtotem)
+
+
+**Removed**
+- [Default Options](https://www.curseforge.com/minecraft/mc-mods/default-options)
+
+
+**Changes**
+- **Armor Trims** now gives **unique buffs** depending on the **material used**.
+- You **can** no **longer open** other **players backpacks** by **default**.
+- Forge's **pre-loading phase** is now **dark themed** after **first boot**.
+- Some **changes** in **mod updates**, as **always**.
+
+
+**Fixes**
+- **Servers** added to the "**Play Multiplayer**" list **not pinging correctly** is now **fixed**.
+- **Keybindings** getting **reset** everytime the **modpack** is **booted** is now **fixed**.
+- **Fixed** the **Mining Dimension** block **recipe**.
+- **Fixed** a few **recipe conflicts**.
+- Some **fixes** in **mod updates**, as **always**.
+
+
+**Updated**
+- All **mods** that **could** be **updated** have been **updated**.
+
+
+**Current Forge Version**
+- 47.0.19
+
+
+**Notes**
+- Expect **breaking updates**, some **issues**, **bugs**, **recipe conflicts** & overall **instability**.
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-7/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.3.0</h1>
 
 **Mystical Agriculture, Sophisticated Series, Pedestals, some changes & more!**
