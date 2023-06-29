@@ -1,3 +1,74 @@
+<h1>v0.5.0</h1>
+
+**Lots of new mods. QoL, some fixes, changes & more!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Bartering Station](https://www.curseforge.com/minecraft/mc-mods/bartering-station)
+- [Better Tridents](https://www.curseforge.com/minecraft/mc-mods/better-tridents)
+- [Bow Infinity Fix](https://www.curseforge.com/minecraft/mc-mods/bow-infinity-fix)
+- [Diagonal Fences](https://www.curseforge.com/minecraft/mc-mods/diagonal-fences) (+ [Puzzles Lib](https://www.curseforge.com/minecraft/mc-mods/puzzles-lib))
+- [Diet](https://www.curseforge.com/minecraft/mc-mods/diet)
+- [Dungeon Crawl](https://www.curseforge.com/minecraft/mc-mods/dungeon-crawl)
+- [Easy Anvils](https://www.curseforge.com/minecraft/mc-mods/easy-anvils)
+- [Enchanting Infuser](https://www.curseforge.com/minecraft/mc-mods/enchanting-infuser-forge)
+- [Ender Zoology](https://legacy.curseforge.com/minecraft/mc-mods/ender-zoology)
+- [FindMe](https://www.curseforge.com/minecraft/mc-mods/findme)
+- [Functional Storage](https://www.curseforge.com/minecraft/mc-mods/functional-storage) (+ [Titanium](https://www.curseforge.com/minecraft/mc-mods/titanium))
+- [Jump Over Fences](https://www.curseforge.com/minecraft/mc-mods/jump-over-fences-forge)
+- [Leaves Be Gone](https://www.curseforge.com/minecraft/mc-mods/leaves-be-gone)
+- [Oreberries Replanted](https://www.curseforge.com/minecraft/mc-mods/oreberries-replanted)
+- [ServerConfig Updater](https://www.curseforge.com/minecraft/mc-mods/serverconfig-updater)
+- [ShulkerBoxTooltip](https://www.curseforge.com/minecraft/mc-mods/shulkerboxtooltip)
+- [Sledgehammers](https://www.curseforge.com/minecraft/mc-mods/sledgehammers)
+- [Spit it Out](https://www.curseforge.com/minecraft/mc-mods/spit-it-out)
+- [Stylish Effects](https://legacy.curseforge.com/minecraft/mc-mods/stylish-effects)
+- [Trading Post](https://www.curseforge.com/minecraft/mc-mods/trading-post)
+- [Universal Enchants](https://www.curseforge.com/minecraft/mc-mods/universal-enchants-forge)
+
+
+**Removed**
+- No mods removed.
+
+
+**Changes**
+- You **can** now **optionally** have a better **Diet** to gain **positive effects**, no **negatives**.
+- **Potion Particles** are now **hidden** in **first-person view**.
+- Some **changes** in **mod updates**, as **always**.
+
+
+**Fixes**
+- **Armor Toughness Bar** having **missing textures** is now **fixed**.
+- Some **fixes** in **mod updates**, as **always**.
+
+
+**Updated**
+- All **mods** that **could** be **updated** have been **updated**.
+
+
+**Current Forge Version**
+- 47.0.19
+
+
+**Notes**
+- Expect **breaking updates**, some **issues**, **bugs**, **recipe conflicts** & overall **instability**.
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-7/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.4.0</h1>
 
 **Magic, QoL changes, new worldgen structures + more!**
