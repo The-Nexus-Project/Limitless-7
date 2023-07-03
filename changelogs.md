@@ -1,3 +1,82 @@
+<h1>v0.6.0</h1>
+
+**Powah, Integrated Series, PneumaticCraft, QoL, some changes + fixes & more!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [AE2 Things](https://www.curseforge.com/minecraft/mc-mods/ae2-things-forge)
+- [Building Wands](https://www.curseforge.com/minecraft/mc-mods/building-wands)
+- [Charging Gadgets](https://www.curseforge.com/minecraft/mc-mods/charging-gadgets)
+- [Climb Ladders Fast](https://www.curseforge.com/minecraft/mc-mods/climb-ladders-fast)
+- [Crash Utilities](https://www.curseforge.com/minecraft/mc-mods/crash-utilities)
+- [Death Knell](https://www.curseforge.com/minecraft/mc-mods/death-knell)
+- [Ding](https://www.curseforge.com/minecraft/mc-mods/ding)
+- [Eccentric Tome](https://www.curseforge.com/minecraft/mc-mods/eccentric-tome)
+- [Ender Mail](https://www.curseforge.com/minecraft/mc-mods/ender-mail)
+- [Ender Trigon](https://www.curseforge.com/minecraft/mc-mods/ender-trigon)
+- [EverlastingAbilities](https://www.curseforge.com/minecraft/mc-mods/everlastingabilities)
+- [Explorify – Dungeons & Structures](https://www.curseforge.com/minecraft/mc-mods/explorify)
+- [Fast Paintings](https://www.curseforge.com/minecraft/mc-mods/fast-paintings)
+- [FlickerFix](https://www.curseforge.com/minecraft/mc-mods/flickerfix)
+- [Golems Are Friends Not Fodder](https://www.curseforge.com/minecraft/mc-mods/golemsarefriends)
+- [Integrated Crafting](https://www.curseforge.com/minecraft/mc-mods/integrated-crafting) ( + [Cyclops Core](https://www.curseforge.com/minecraft/mc-mods/cyclops-core))
+- [Integrated Dynamics](https://www.curseforge.com/minecraft/mc-mods/integrated-dynamics)
+- [Integrated Terminals](https://www.curseforge.com/minecraft/mc-mods/integrated-terminals)
+- [Integrated Tunnels](https://www.curseforge.com/minecraft/mc-mods/integrated-tunnels)
+- [Kobolds!](https://www.curseforge.com/minecraft/mc-mods/kobolds)
+- [Let Me Despawn](https://www.curseforge.com/minecraft/mc-mods/let-me-despawn)
+- [Macaw's Lights and Lamps](https://www.curseforge.com/minecraft/mc-mods/macaws-lights-and-lamps)
+- [Mining Gadgets](https://www.curseforge.com/minecraft/mc-mods/mining-gadgets)
+- [Night Lights](https://www.curseforge.com/minecraft/mc-mods/nightlights)
+- [PneumaticCraft: Repressurized](https://www.curseforge.com/minecraft/mc-mods/pneumaticcraft-repressurized)
+- [Polymorph](https://www.curseforge.com/minecraft/mc-mods/polymorph)
+- [Powah!](https://legacy.curseforge.com/minecraft/mc-mods/powah-rearchitected)
+- [Simply Light](https://www.curseforge.com/minecraft/mc-mods/simply-light)
+
+
+**Removed**
+- No mods removed.
+
+
+**Changes**
+- The **Ender Dragon** now has **3 heads**, **new strategies**, **attacks/abilities**.
+- Some **new** and **varied death messages** have been **added**.
+- Some **changes** in **mod updates**, as **always**.
+
+
+**Fixes**
+- Fixed **@Diet** giving **negative effects**.
+- Some **fixes** in **mod updates**, as **always**.
+
+
+**Updated**
+- **Forge** from version **47.0.19** to **47.0.35**
+- All **mods** that **could** be **updated** have been **updated**.
+
+
+**Current Forge Version**
+- 47.0.35
+
+
+**Notes**
+- Expect **breaking updates**, some **issues**, **bugs**, **recipe conflicts** & overall **instability**.
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-7/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.5.0</h1>
 
 **Lots of new mods. QoL, some fixes, changes & more!**
