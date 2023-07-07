@@ -1,3 +1,75 @@
+<h1>v0.7.0</h1>
+
+**Refined Storage, Create, some changes + fixes & more!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Advancement Plaques](https://www.curseforge.com/minecraft/mc-mods/advancement-plaques) (+ [Iceberg](https://www.curseforge.com/minecraft/mc-mods/iceberg)) (+ [Embellished Stone](https://www.curseforge.com/minecraft/texture-packs/embellished-stone-advancement-plaques))
+- [Auto Feeder Helmet](https://www.curseforge.com/minecraft/mc-mods/auto-feeder-helmet)
+- [Bad Wither No Cookie - Reloaded](https://www.curseforge.com/minecraft/mc-mods/bad-wither-no-cookie-reloaded)
+- [BH Server Integration Menu](https://www.curseforge.com/minecraft/mc-mods/bisecthosting-server-integration-menu-forge)
+- [Create](https://www.curseforge.com/minecraft/mc-mods/create)
+- [EnderChests](https://www.curseforge.com/minecraft/mc-mods/enderchests)
+- [EnderTanks](https://www.curseforge.com/minecraft/mc-mods/endertanks)
+- [Experience Obelisk](https://www.curseforge.com/minecraft/mc-mods/experience-obelisk)
+- [Fast Tool Switching](https://www.curseforge.com/minecraft/mc-mods/fast-tool-switching)
+- [Fix GPU Memory Leak](https://www.curseforge.com/minecraft/mc-mods/fix-gpu-memory-leak)
+- [Floral Enchantment](https://curseforge.com/minecraft/mc-mods/floral-enchantment)
+- [Floralis](https://www.curseforge.com/minecraft/mc-mods/floralis)
+- [ManyIdeas Christmas](https://www.curseforge.com/minecraft/mc-mods/manyideas-christmas)
+- [ManyIdeas Doors](https://www.curseforge.com/minecraft/mc-mods/manyideas-doors)
+- [ManyIdeas Halloween](https://www.curseforge.com/minecraft/mc-mods/manyideas-halloween)
+- [More MobGriefing Options](https://www.curseforge.com/minecraft/mc-mods/more-mobgriefing-options)
+- [Ranged Pumps](https://www.curseforge.com/minecraft/mc-mods/ranged-pumps)
+- [Refined Storage](https://www.curseforge.com/minecraft/mc-mods/refined-storage) (+ [Extra Disks](https://www.curseforge.com/minecraft/mc-mods/extra-disks)) (+ [Refined Storage Addons](https://www.curseforge.com/minecraft/mc-mods/refined-storage-addons)) (+ [Refined Storage Requestify](https://www.curseforge.com/minecraft/mc-mods/rs-requestify)) (+ [Universal Grid](https://www.curseforge.com/minecraft/mc-mods/universal-grid))
+- [Stackable Potions](https://www.curseforge.com/minecraft/mc-mods/stackablepotions-forge)
+- [Updating World Icon](https://www.curseforge.com/minecraft/mc-mods/updating-world-icon)
+- [Village Artifacts](https://www.curseforge.com/minecraft/mc-mods/villager-tools)
+- [World Pre Generator](https://www.curseforge.com/minecraft/mc-mods/world-pre-generator)
+
+
+**Removed**
+- No mods removed.
+
+
+**Changes**
+- **Added** two **Official Servers** to the **Play Multiplayer list**.
+- **Potions** can now be **stacked** up to **16**.
+- Some **changes** in **mod updates**, as **always**.
+
+
+**Fixes**
+- Some **fixes** in **mod updates**, as **always**.
+
+
+**Updated**
+- **Forge** from version **47.0.36** to **47.1.0**
+- All **mods** that **could** be **updated** have been **updated**.
+
+
+**Current Forge Version**
+- 47.1.0
+
+
+**Notes**
+- Expect **breaking updates**, some **issues**, **bugs**, **recipe conflicts** & overall **instability**.
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-7/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.6.0</h1>
 
 **Powah, Integrated Series, PneumaticCraft, QoL, some changes + fixes & more!**
