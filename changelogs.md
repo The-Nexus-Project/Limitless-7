@@ -1,3 +1,41 @@
+<h1>v0.7.1</h1>
+
+**Hotfix. (Recommended to update!)**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Fixes**
+- A "**rare**" **crash** while **booting** up the **modpack** on **some systems** is now **fixed**.
+- **Enderman Mob** causing **crashes** within **claimed chunks** is now **fixed**.
+- **Crashes** related to **Everlasting Abilities** is now **fixed**.
+
+
+**Updated**
+- Updated **3** mods.
+
+
+**Current Forge Version**
+- 47.1.0
+
+
+**Notes**
+- Expect **breaking updates**, some **issues**, **bugs**, **recipe conflicts** & overall **instability**.
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-7/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.7.0</h1>
 
 **Refined Storage, Create, some changes + fixes & more!**
