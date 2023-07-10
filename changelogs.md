@@ -1,3 +1,74 @@
+<h1>v0.8.0</h1>
+
+**Ars Nouveau, Artifacts, Twilight Forest, QoL. Changes + fixes & more!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Ars Nouveau](https://www.curseforge.com/minecraft/mc-mods/ars-nouveau)
+- [Artifacts](https://www.curseforge.com/minecraft/mc-mods/artifacts)
+- [Bed Benefits](https://www.curseforge.com/minecraft/mc-mods/bed-benefits)
+- [Cable Tiers](https://www.curseforge.com/minecraft/mc-mods/cable-tiers)
+- [Chipped](https://www.curseforge.com/minecraft/mc-mods/chipped)
+- [Crawl](https://www.curseforge.com/minecraft/mc-mods/crawl-on-demand)
+- [Create Jetpack](https://www.curseforge.com/minecraft/mc-mods/create-jetpack)
+- [Create: Structures](https://www.curseforge.com/minecraft/mc-mods/create-structures)
+- [Framed Blocks](https://www.curseforge.com/minecraft/mc-mods/framedblocks)
+- [In Control!](https://www.curseforge.com/minecraft/mc-mods/in-control)
+- [Jade Addons](https://www.curseforge.com/minecraft/mc-mods/jade-addons)
+- [Just Enough Resources](https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer)
+- [More Mob Variants](https://www.curseforge.com/minecraft/mc-mods/more-mob-variants)
+- [Packages](https://www.curseforge.com/minecraft/mc-mods/packages)
+- [Pretty Pipes](https://www.curseforge.com/minecraft/mc-mods/pretty-pipes)
+- [Seamless](https://www.curseforge.com/minecraft/mc-mods/seamless)
+- [Starlight](https://www.curseforge.com/minecraft/mc-mods/starlight-forge) (**Only in server files.**)
+- [Structory: Towers](https://www.curseforge.com/minecraft/mc-mods/structory-towers)
+- [Structory](https://www.curseforge.com/minecraft/mc-mods/structory)
+- [The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest)
+- [Towers of the Wild](https://www.curseforge.com/minecraft/mc-mods/towers-of-the-wild-modded)
+
+
+**Removed**
+- No mods removed.
+
+
+**Changes**
+- **Sleeping** in a **bed** will now **heal the player** & **cure** any **negative effects**.
+- **You** can now **crawl on demand** by **holding down a key**. (**C by default.**)
+- Some **changes** in **mod updates**, as **always**.
+
+
+**Fixes**
+- A **crash** with **@QuarryPlus** inside **claimed chunks** is now **fixed**.
+- Some **fixes** in **mod updates**, as **always**.
+
+
+**Updated**
+- All **mods** that **could** be **updated** have been **updated**.
+
+
+**Current Forge Version**
+- 47.1.0
+
+
+**Notes**
+- Expect **breaking updates**, some **issues**, **bugs**, **recipe conflicts** & overall **instability**.
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-7/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.7.1</h1>
 
 **Hotfix. (Recommended to update!)**
