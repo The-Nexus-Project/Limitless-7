@@ -1,3 +1,75 @@
+<h1>v0.9.0</h1>
+
+**Alchemistry, Farmer's Delight, Botany Pots, Dank Storage. Fixes, changes & more!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Alchemistry](https://www.curseforge.com/minecraft/mc-mods/alchemistry) (+ [AlchemyLib](https://www.curseforge.com/minecraft/mc-mods/alchemylib) & [Chemlib](https://www.curseforge.com/minecraft/mc-mods/chemlib))
+- [Beekeeper Hut (Friends & Foes Addon)](https://www.curseforge.com/minecraft/mc-mods/friends-and-foes-beekeeper-hut-forge)
+- [Botany Pots](https://www.curseforge.com/minecraft/mc-mods/botany-pots)
+- [ChocoCraft](https://www.curseforge.com/minecraft/mc-mods/chococraft)
+- [Dank Storage](https://www.curseforge.com/minecraft/mc-mods/dank-storage)
+- [Essentials](https://www.curseforge.com/minecraft/mc-mods/essentials)
+- [Farmer's Delight](https://www.curseforge.com/minecraft/mc-mods/farmers-delight) (+ [Corn Delight](https://www.curseforge.com/minecraft/mc-mods/corn-delight))
+- [Just Zoom](https://www.curseforge.com/minecraft/mc-mods/just-zoom-forge)
+- [L_Ender 's Cataclysm](https://www.curseforge.com/minecraft/mc-mods/l_ender-s-cataclysm)
+- [MA Tiered Crystals](https://www.curseforge.com/minecraft/mc-mods/mystical-agriculture-tiered-crystals)
+- [No See, No Tick](https://www.curseforge.com/minecraft/mc-mods/no-see-no-tick)
+- [Packing Tape](https://www.curseforge.com/minecraft/mc-mods/packing-tape)
+- [Plain Grinder](https://www.curseforge.com/minecraft/mc-mods/plain-grinder)
+- [Pocket Storage](https://www.curseforge.com/minecraft/mc-mods/pocket-storage)
+- [Screenshot Viewer](https://www.curseforge.com/minecraft/mc-mods/screenshot-viewer)
+- [Snowy Spirit](https://www.curseforge.com/minecraft/mc-mods/snowy-spirit)
+- [Stoneworks](https://www.curseforge.com/minecraft/mc-mods/stoneworks)
+
+
+**Removed**
+- No mods removed.
+
+
+**Changes**
+- **Starting Items** for now **until quests** are: **12 Slices of Chocolate** Pie & **1 Ender Pouch**.
+- The "**Screenshots**" button in the **in-game 'pause' menu** now has **restored functionality**.
+- Added **missing Saplings** to the **Market** from **@Farming for Blockheads**.
+- **You can** now **Zoom** by **holding down** a **key**. (**X by default.**)
+- **Changed number** of **backups** to **keep** from **5** -> **3**.
+- Some **changes** in **mod updates**, as **always**.
+
+
+**Fixes**
+- **Twilight Forest** boss **chests** not **containing anything** is now **fixed**.
+- **Crawl keybinding** can **now** be **bound** to **Mouse buttons**. (**Fixed.**)
+- Some **fixes** in **mod updates**, as **always**.
+
+
+**Updated**
+- **Forge** from version **47.1.0** to **47.1.12**
+- All **mods** that **could** be **updated** have been **updated**.
+
+
+**Current Forge Version**
+- 47.1.12
+
+
+**Notes**
+- Expect **breaking updates**, some **issues**, **bugs**, **recipe conflicts** & overall **instability**.
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-7/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.8.0</h1>
 
 **Ars Nouveau, Artifacts, Twilight Forest, QoL. Changes + fixes & more!**
