@@ -1,3 +1,60 @@
+<h1>v0.10.0</h1>
+
+**Ender IO, AE Additions, Vinery. Changes + fixes & more!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [AE Additions](https://www.curseforge.com/minecraft/mc-mods/ae-additions-extra-cells-2-fork)
+- [CraftTweaker](https://www.curseforge.com/minecraft/mc-mods/crafttweaker) (**Temporary until KubeJS updates.**)
+- [Ender IO](https://www.curseforge.com/minecraft/mc-mods/ender-io) (**Unstable, might cause extra issues.**)
+- [Hang Glider](https://www.curseforge.com/minecraft/mc-mods/hang-glider)
+- [Security Craft](https://www.curseforge.com/minecraft/mc-mods/security-craft)
+- [Vinery](https://www.curseforge.com/minecraft/mc-mods/lets-do-wine)
+
+
+**Removed**
+- No mods removed.
+
+
+**Changes**
+- **Note**: This update **changes** which **mods** provides **Ore Processing** for most **Dusts**. (**From Occultism & Plain Grinder to Ender IO. Old dusts still usable.**)
+- **Disabled** the: **@Cataclysm 'Netherite Monstrosity**' spawns due to **crashes**.
+- Some **changes** in **mod updates**, as **always**.
+
+
+**Fixes**
+- Fixed **Filters** from **@Dark Utilities** being **uncraftable**.
+- Some **fixes** in **mod updates**, as **always**.
+
+
+**Updated/Downgraded**
+- Downgraded **Forge** from version **47.1.12** to **47.1.3**
+- All **mods** that **could** be **updated** have been **updated**.
+
+
+**Current Forge Version**
+- 47.1.3
+
+
+**Notes**
+- Expect **breaking updates**, some **issues**, **bugs**, **recipe conflicts** & overall **instability**.
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-7/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.9.0</h1>
 
 **Alchemistry, Farmer's Delight, Botany Pots, Dank Storage. Fixes, changes & more!**
