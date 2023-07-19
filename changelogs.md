@@ -2,6 +2,8 @@
 
 **EMI, Flux Networks, Botany Trees, Sol: Carrot. Changes & fixes + more!**
 
+**Hotfix:** Disabled **EMI cheat mode** being **on** by **default**.
+
 **Always remember to backup your world(s) before updating!**
 
 
@@ -33,6 +35,7 @@
 - **You** can now **eat food** to **increase** your **maximum health**.
 - **Re-enabled** the **Experience Boost** enchantment.
 - Added **Gysahl Green seeds** to the **@FfB Market**.
+- **^ (hotfix change: disabled EMI cheat mode by default). ^**
 - Some **changes** in **mod updates**, as **always**.
 
 
