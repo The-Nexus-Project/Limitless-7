@@ -1,3 +1,71 @@
+<h1>v0.11.0</h1>
+
+**EMI, Flux Networks, Botany Trees, Sol: Carrot. Changes & fixes + more!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Ars Creo](https://www.curseforge.com/minecraft/mc-mods/ars-creo)
+- [Botany Trees](https://www.curseforge.com/minecraft/mc-mods/botany-trees)
+- [Creative Crafter (Mega)](https://www.curseforge.com/minecraft/mc-mods/creative-crafter)
+- [Create: Diesel Generators](https://www.curseforge.com/minecraft/mc-mods/create-diesel-generators)
+- [EMI](https://www.curseforge.com/minecraft/mc-mods/emi) (**Test run!**)
+- [ExtraStorage](https://www.curseforge.com/minecraft/mc-mods/extrastorage)
+- [Flux Networks](https://www.curseforge.com/minecraft/mc-mods/flux-networks)
+- [Legendary Tooltips](https://www.curseforge.com/minecraft/mc-mods/legendary-tooltips) (+ [Eclectic Trove](https://www.curseforge.com/minecraft/texture-packs/eclectic-trove-legendary-tooltips))
+- [Ocean's Delight](https://www.curseforge.com/minecraft/mc-mods/oceans-delight)
+- [Patchouli](https://www.curseforge.com/minecraft/mc-mods/patchouli)
+- [Rechiseled: Create](https://www.curseforge.com/minecraft/mc-mods/rechiseled-create)
+- [Redstone Pen](https://www.curseforge.com/minecraft/mc-mods/redstone-pen)
+- [Spice of Life: Carrot Edition](https://www.curseforge.com/minecraft/mc-mods/spice-of-life-carrot-edition)
+
+
+**Removed**
+- No mods removed.
+
+
+**Changes**
+- **Items/Blocks** that **are** considered "**higher tiered**" now have a **fancy tooltip border**.
+- **Modified** the **Eccentric Tome recipe** to include **most** if not **all Guide Books**.
+- **Disabled** the **@SophisticatedBackpacks** '**Inception Upgrade**' due to **issues**.
+- Lowered **Gysahl Green** generation **patch chances** by **a lot**.
+- **You** can now **eat food** to **increase** your **maximum health**.
+- **Re-enabled** the **Experience Boost** enchantment.
+- Added **Gysahl Green seeds** to the **@FfB Market**.
+- Some **changes** in **mod updates**, as **always**.
+
+
+**Fixes**
+- A **crash** when it's **raining** has been **fixed**.
+- Some **fixes** in **mod updates**, as **always**.
+
+
+**Updated**
+- All **mods** that **could** be **updated** have been **updated**.
+
+
+**Current Forge Version**
+- 47.1.3
+
+
+**Notes**
+- Expect **breaking updates**, some **issues**, **bugs**, **recipe conflicts** & overall **instability**.
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-7/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.10.0</h1>
 
 **Ender IO, AE Additions, Vinery. Changes + fixes & more!**
