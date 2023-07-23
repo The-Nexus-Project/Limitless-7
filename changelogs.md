@@ -1,3 +1,66 @@
+<h1>v0.12.0</h1>
+
+**New mini-bosses, new mobs, QoL. Changes, fixes & more!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Archaeology Banners](https://www.curseforge.com/minecraft/mc-mods/archaeology-banners)
+- [Brutal Bosses - Dungeon Bosses](https://www.curseforge.com/minecraft/mc-mods/brutal-bosses-dungeon)
+- [Diagonal Windows](https://www.curseforge.com/minecraft/mc-mods/diagonal-windows)
+- [Just Enough Archaeology](https://www.curseforge.com/minecraft/mc-mods/just-enough-archaeology)
+- [Just Enough Painting Previews](https://www.curseforge.com/minecraft/mc-mods/jepp)
+- [Mob Compack](https://www.curseforge.com/minecraft/mc-mods/mob-compack)
+- [Skinned Lanterns](https://www.curseforge.com/minecraft/mc-mods/skinned-lanterns)
+
+
+**Removed**
+- [Iron's Spells 'n Spellbooks](https://legacy.curseforge.com/minecraft/mc-mods/irons-spells-n-spellbooks) (**Crashing Issues.**)
+- [Legendary Tooltips](https://www.curseforge.com/minecraft/mc-mods/legendary-tooltips) (**Crashing Issues.**)
+
+
+**Changes**
+- **Mini-bosses** can now be **found** in most **structures** around the **world**.
+- **EMI initializing loading times** have been **improved** a **bit**.
+- Added **missing Guide Books** to the **Eccentric Tome** recipe.
+- Added **Vinery Seed**s & **Saplings** to the **@FfB Market**.
+- Lowered **chances** for **Charged Creepers** to **spawn**.
+- **Copper Block** can **now** be **uncrafted** to **ingots**.
+- Some **changes** in **mod updates**, as **always**.
+
+
+**Fixes**
+- **Fixed** a **few crashes** when **hovering over** certain **items**, or opening **guis**.
+- **Fixed** a **crash/disconnect** in **The Nether** and **perhaps** other **places**.
+- Some **fixes** in **mod updates**, as **always**.
+
+
+**Updated**
+- All **mods** that **could** be **updated** have been **updated**.
+
+
+**Current Forge Version**
+- 47.1.3
+
+
+**Notes**
+- Expect **breaking updates**, some **issues**, **bugs**, **recipe conflicts** & overall **instability**.
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-7/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.11.0</h1>
 
 **EMI, Flux Networks, Botany Trees, Sol: Carrot. Changes & fixes + more!**
