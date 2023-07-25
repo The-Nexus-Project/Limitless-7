@@ -1,3 +1,65 @@
+<h1>v0.13.0</h1>
+
+**Reliquary, New End Foods, New Illagers, QoL. Changes & fixes + more!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Effect Descriptions](https://www.curseforge.com/minecraft/mc-mods/new-effect-descriptions)
+- [End's Delight](https://www.curseforge.com/minecraft/mc-mods/ends-delight)
+- [Exchangers](https://www.curseforge.com/minecraft/mc-mods/exchangers)
+- [Illager Invasion](https://www.curseforge.com/minecraft/mc-mods/illager-invasion)
+- [Light Overlay](https://www.curseforge.com/minecraft/mc-mods/light-overlay)
+- [Mob Lassos](https://www.curseforge.com/minecraft/mc-mods/mob-lassos)
+- [Reliquary Reincarnations](https://www.curseforge.com/minecraft/mc-mods/reliquary-v1-3)
+- [Snow Pig](https://www.curseforge.com/minecraft/mc-mods/snow-pig)
+
+
+**Removed**
+- [More Overlays Updated](https://www.curseforge.com/minecraft/mc-mods/more-overlays-updated)
+
+
+**Changes**
+- Added **@Create Crushing Wheels support** for **processing Ingots, Gems etc** to **Dusts**.
+- **Potions** now have a **Tooltip displaying** what the **effect does**.
+- **Capacitors Banks** from **@EnderIO** are now **craftable**.
+- **Enabled** the **Ratlantis Dimension**.
+- Some **changes** in **mod updates**, as **always**.
+
+
+**Fixes**
+- A **crash** while **pondering items/blocks** from **@Create: Diesel Generators** has been **fixed**.
+- **Glass Panes** part of **generated structures** having **invalid block states** is now **fixed.**
+- Fixed "**Payload may not be larger than X**" when **crafting certain items** with **EMI**.
+- Some **fixes** in **mod updates**, as **always**.
+
+
+**Updated**
+- All **mods** that **could** be **updated** have been **updated**.
+
+
+**Current Forge Version**
+- 47.1.3
+
+
+**Notes**
+- Expect **breaking updates**, some **issues**, **bugs**, **recipe conflicts** & overall **instability**.
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-7/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.12.0</h1>
 
 **New mini-bosses, new mobs, QoL. Changes, fixes & more!**
