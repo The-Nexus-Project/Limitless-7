@@ -1,3 +1,75 @@
+<h1>v0.14.0</h1>
+
+**New mods, underground biomes, worldgen, structures. QoL, changes, fixes & more!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Armor Statues](https://www.curseforge.com/minecraft/mc-mods/armor-statues)
+- [Create Enchantment Industry](https://www.curseforge.com/minecraft/mc-mods/create-enchantment-industry)
+- [Create Slice & Dice](https://www.curseforge.com/minecraft/mc-mods/slice-and-dice)
+- [DeepslateCutting](https://www.curseforge.com/minecraft/mc-mods/deepslatecutting)
+- [Galosphere](https://www.curseforge.com/minecraft/mc-mods/galosphere)
+- [JourneyMap Integration](https://www.curseforge.com/minecraft/mc-mods/journeymap-integration)
+- [Joy of Painting](https://www.curseforge.com/minecraft/mc-mods/joy-of-painting)
+- [ME Requester](https://www.curseforge.com/minecraft/mc-mods/merequester)
+- [Moog's End Structures](https://www.curseforge.com/minecraft/mc-mods/moogs-end-structures)
+- [Moog's Voyager Structures](https://www.curseforge.com/minecraft/mc-mods/moogs-voyager-structures)
+- [More Dragon Eggs](https://www.curseforge.com/minecraft/mc-mods/more-dragon-eggs)
+- [Nyf's Spiders](https://www.curseforge.com/minecraft/mc-mods/nyfs-spiders)
+- [RSInfinityBooster](https://www.curseforge.com/minecraft/mc-mods/rsinfinitybooster)
+- [Straw Statues](https://www.curseforge.com/minecraft/mc-mods/straw-statues)
+- [Tempad](https://www.curseforge.com/minecraft/mc-mods/tempad)
+- [Time in a Bottle](https://www.curseforge.com/minecraft/mc-mods/time-in-a-bottle-forge)
+
+
+**Removed**
+- [Grabby Mobs](https://www.curseforge.com/minecraft/mc-mods/grabby-mobs)
+
+
+**Changes**
+- **Claimed Chunks** can **now** be **optionally viewed** from the **Journey Map fullscreen map** & **minimap**.
+- **Killing** the **Ender Dragon** will now **always** spawn a new **Dragon Egg** at the **End Fountain**.
+- Allowed **Modded Ores** to **generate** in the **Mining Dimension**.
+- **Spiders** can now **climb ceilings** and are **smarter overall**.
+- Some **changes** in **mod updates**, as **always**.
+
+
+**Fixes**
+- Reduced **an issue** with **items not stacking** after **mobs picks them up**. (**Still not 100% fixed.**)
+- **Rare modloading errors** from **@Chipped**, **@Handcrafted**, & **@IntegratedTerminals** are now **fixed**.
+- **Totems** from **@EverlastingAbilities** found in **loot chests** being "**empty**" is now **fixed**.
+- Fixed **Oreberries processing** into **nothing**, **air**. **Poof**.
+- Fixed **Sturdy Sheet** from **@Create** being **uncraftable**.
+- Some **fixes** in **mod updates**, as **always**.
+
+
+**Updated**
+- All **mods** that **could** be **updated** have been **updated**.
+
+
+**Current Forge Version**
+- 47.1.3
+
+
+**Notes**
+- Expect **breaking updates**, some **issues**, **bugs**, **recipe conflicts** & overall **instability**.
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-7/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.13.0</h1>
 
 **Reliquary, New End Foods, New Illagers, QoL. Changes & fixes + more!**
