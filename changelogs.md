@@ -1,3 +1,65 @@
+<h1>v0.15.0</h1>
+
+**Industrial Foregoing, New Nether Structures, Fortress design. Changes, fixes & more!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Blaze Gear](https://www.curseforge.com/minecraft/mc-mods/blaze-gear)
+- [Bygone Nether](https://www.curseforge.com/minecraft/mc-mods/bygone-nether)
+- [Create: Ender Transmission](https://www.curseforge.com/minecraft/mc-mods/create-ender-transmission)
+- [Industrial Foregoing](https://www.curseforge.com/minecraft/mc-mods/industrial-foregoing)
+- [Item Highlighter](https://legacy.curseforge.com/minecraft/mc-mods/item-highlighter)
+- [Redirectionor](https://www.curseforge.com/minecraft/mc-mods/redirectionor)
+- [Simply Swords](https://www.curseforge.com/minecraft/mc-mods/simply-swords) (+ [Knaves' Needs](https://www.curseforge.com/minecraft/mc-mods/knaves-needs))
+
+
+**Removed**
+- [JourneyMap Integration](https://www.curseforge.com/minecraft/mc-mods/journeymap-integration) (**FPS issues if enough claims are visible.**)
+
+
+**Changes**
+- Made **Jetpacks** from **@IronJetpacks** that are **not craftable** **hidden** for **now**. (**Avoids confusion**).
+- **Unified Silicon** into a **preferred one** for **all recipes**. (**Existing Silicon still usable.**)
+- **Modified** the **@Everlasting Abilities GUI** so it's **easier to see** that **4 totems** are **max**.
+- **@EMI loading (initialization) times** have been **improved**.
+- Added a **Bread recipe** for **2x2 crafting grids**.
+- Some **changes** in **mod updates**, as **always**.
+
+
+**Fixes**
+- Fixed **Emerald Jetpack** from **@IronJetpacks** not being **craftable**
+- Fixed quite a few **recipe conflicts**.
+- A **duping exploit** has been **patched**.
+- Some **fixes** in **mod updates**, as **always**.
+
+
+**Updated**
+- All **mods** that **could** be **updated** have been **updated**.
+
+
+**Current Forge Version**
+- 47.1.3
+
+
+**Notes**
+- Expect **breaking updates**, some **issues**, **bugs**, **recipe conflicts** & overall **instability**.
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-7/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.14.1</h1>
 
 **Removed Alex's Mobs due to world timeout freeze crashes.**
