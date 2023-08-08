@@ -1,3 +1,75 @@
+<h1>v0.16.0</h1>
+
+**TropiCraft, Doggy Talents, New Worldgen Structures, New Mobs. Changes, fixes & more!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Advanced Generators](https://www.curseforge.com/minecraft/mc-mods/advanced-generators)
+- [Advanced Netherite](https://www.curseforge.com/minecraft/mc-mods/advanced-netherite)
+- [Bedspreads](https://www.curseforge.com/minecraft/mc-mods/bedspreads)
+- [CobbleFordays](https://www.curseforge.com/minecraft/mc-mods/cobblefordays)
+- [Construction Wand](https://www.curseforge.com/minecraft/mc-mods/createaddition)
+- [Create Crafts & Additions](https://www.curseforge.com/minecraft/mc-mods/construction-wand)
+- [Cull Leaves](https://www.curseforge.com/minecraft/mc-mods/cull-leaves)
+- [Curious Armor Stands](https://www.curseforge.com/minecraft/mc-mods/curious-armor-stands)
+- [Doggy Talents Next](https://www.curseforge.com/minecraft/mc-mods/doggy-talents-next)
+- [Monsters Plus](https://www.curseforge.com/minecraft/mc-mods/monster-plus)
+- [Mystical Adaptations](https://www.curseforge.com/minecraft/mc-mods/mystical-adaptations)
+- [Philip's Ruins](https://www.curseforge.com/minecraft/mc-mods/ruins)
+- [TropiCraft](https://www.curseforge.com/minecraft/mc-mods/tropicraft)
+- [Wabi-Sabi Structures](https://www.curseforge.com/minecraft/mc-mods/wabi-sabi-structures-forge)
+
+
+**Removed**
+- No mods removed.
+
+
+**Changes**
+- Added **Brass Ingot** & **Andesite Alloy recipes** to the **@EnderIO Alloy Smelter**.
+- **Leaves** are now less **culled** which can **improve performance** by **a lot**.
+- **Lowered generation chances** for: **Hunter Illages House**.
+- Adjusted **generation patch chances** of **@Cyclic Flowers**.
+- Disabled **@Dungeons Arise** structure: **Wishing Well**.
+- **Re-enabled** the **@IronJetpacks Electrum Jetpack**.
+- Unified **Rice**.
+- Some **changes** in **mod updates**, as **always**.
+
+
+**Fixes**
+- An **issue** with **Thorns applying** when **no Thorns** is **applied** is **now fixed**.
+- A **crash** related to **Functional Armor Trim** mod has been **fixed**.
+- **Fixed** **Zoom & Crawl** being on the **same keybind** by **default**.
+- **Fixed** a **bunch** of **recipe conflicts**.
+- Some **fixes** in **mod updates**, as **always**.
+
+
+**Updated**
+- All **mods** that **could** be **updated** have been **updated**.
+
+
+**Current Forge Version**
+- 47.1.3
+
+
+**Notes**
+- Expect **breaking updates**, some **issues**, **bugs**, **recipe conflicts** & overall **instability**.
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-7/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.15.0</h1>
 
 **Industrial Foregoing, New Nether Structures, Fortress design. Changes, fixes & more!**
