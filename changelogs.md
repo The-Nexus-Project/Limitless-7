@@ -1,3 +1,66 @@
+<h1>v0.17.0</h1>
+
+**New mods. QoL. Changes, fixes & more!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Beautify!](https://www.curseforge.com/minecraft/mc-mods/beautify-decorate)
+- [Better Jukeboxes](https://www.curseforge.com/minecraft/mc-mods/better-jukeboxes)
+- [Fantasy's Furniture](https://www.curseforge.com/minecraft/mc-mods/fantasys-furniture)
+- [Just Enough Breeding](https://www.curseforge.com/minecraft/mc-mods/justenoughbreeding)
+- [Nyf's Quivers](https://www.curseforge.com/minecraft/mc-mods/nyfs-quivers)
+
+
+**Removed**
+- No mods removed.
+
+
+**Notable Changes**
+- **Pineapple Bits** from **@TropiCraft** can now be **crafted using a Sword & any Pineapple**.
+- **@TropiCraft recipes** that require **Pineapple** can now use **@Croptopia Pineapple**.
+- **Disabled** the **@Supplementaries Quiver** to **prevent crashes**.
+- **Banned** the **Hand Bell** from **@UtilitiX** to **prevent crashes**.
+- **Buffed** the **Hang Glider(s)**.
+- (**!**) Some **changes** in **mod updates**, as **always**.
+
+
+**Notable Fixes**
+- **Fixed potential issues** with **recipes** not being **removed** on **certain server machines**.
+- The **Sniffer's Mob's AI** should **now** be **working again**. (**Pathfinding**, **digging**, **etc**.)
+- **Fixed Electrum Rod** being **crafted** by using **Gold Ingots.** (**Whoops.**)
+- **Fixed** many **recipes conflicts**. (**If you find any, please report!**)
+- **Bosses** spawning **inside walls** in some **structures** is now **fixed**.
+- **Soul Vials** from **@EnderIO** not working has been **fixed**.
+- (**!**) Some **fixes** in **mod updates**, as **always**.
+
+
+**Updated**
+- (**!**) All **mods** that **could** be **updated** have been **updated**.
+
+
+**Current Forge Version**
+- 47.1.3
+
+
+**Notes**
+- Expect **breaking updates**, some **issues**, **bugs**, **recipe conflicts** & overall **instability**.
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-7/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.16.0</h1>
 
 **TropiCraft, Doggy Talents, New Worldgen Structures, New Mobs. Changes, fixes & more!**
