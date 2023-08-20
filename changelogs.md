@@ -32,7 +32,7 @@
 - **Blacklisted** lots of **GUIs** to **not include** the **sort buttons**.
 - **Added** more **Guide Books** to the **Eccentric Tome** recipe.
 - **Elytra** can now be "**copied**" by **using** a **Dragon Scale**.
-- **Performance improvents** related to **crafting**.
+- **Performance improvements** related to **crafting**.
 - **Added** a **recipe** for the **Elytra**.
 - (**!**) Some **changes** in **mod updates**, as **always**.
 
