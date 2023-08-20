@@ -1,3 +1,75 @@
+<h1>v0.18.0</h1>
+
+**Apotheosis, Gateways to Eternity, Building Gadgets. QoL. Changes & fixes + more!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Apotheosis](https://www.curseforge.com/minecraft/mc-mods/apotheosis)
+- [Apothic Attributes](https://www.curseforge.com/minecraft/mc-mods/apothic-attributes)
+- [Applied Cooking](https://www.curseforge.com/minecraft/mc-mods/applied-cooking)
+- [Building Gadgets](https://www.curseforge.com/minecraft/mc-mods/building-gadgets)
+- [Click Machine](https://www.curseforge.com/minecraft/mc-mods/click-machine)
+- [EMI Trades](https://www.curseforge.com/minecraft/mc-mods/emi-trades-villager-trading-emi-plugin)
+- [FastFurnace](https://www.curseforge.com/minecraft/mc-mods/fastfurnace)
+- [FastSuite](https://www.curseforge.com/minecraft/mc-mods/fastsuite)
+- [FastWorkbench](https://www.curseforge.com/minecraft/mc-mods/fastworkbench)
+- [Gateways to Eternity](https://www.curseforge.com/minecraft/mc-mods/gateways-to-eternity)
+- [Refined Cooking](https://www.curseforge.com/minecraft/mc-mods/refined-cooking)
+- [Scannable](https://www.curseforge.com/minecraft/mc-mods/scannable)
+
+
+**Removed**
+- [Travel Anchors](https://www.curseforge.com/minecraft/mc-mods/travel-anchors) (**@Ender IO has it now.**)
+- [Starlight](https://www.curseforge.com/minecraft/mc-mods/starlight-forge) (**From Server Files.**)
+
+
+**Notable Changes**
+- **Disabled**: **Earthworms**, **Grubs** & **Leeches** drops from **blocks**. Instead added **recipes**.
+- **Adjusted** the **positions** of the **Options** & **in-game Pause menus**.
+- You **can now** view **Villager** & **Wandering Trader Trades** in **EMI**.
+- **Blacklisted** lots of **GUIs** to **not include** the **sort buttons**.
+- **Added** more **Guide Books** to the **Eccentric Tome** recipe.
+- **Elytra** can now be "**copied**" by **using** a **Dragon Scale**.
+- **Performance improvents** related to **crafting**.
+- **Added** a **recipe** for the **Elytra**.
+- (**!**) Some **changes** in **mod updates**, as **always**.
+
+
+**Notable Fixes**
+- A "**Glove Artifact Renderer**" **crashing issue** with **Curios Equipables** has been **fixed**.
+- Fixed **Quiver Overlay overlapping** with the **Jetpack Overlay**.
+- Fixed **unlocalized names** of some **Villager Professions**.
+- **Bee attributes** getting **scrambled** is now **fixed**.
+- (**!**) Some **fixes** in **mod updates**, as **always**.
+
+
+**Updated**
+- (**!**) All **mods** that **could** be **updated** have been **updated**.
+
+
+**Current Forge Version**
+- 47.1.3
+
+
+**Notes**
+- Expect **breaking updates**, some **issues**, **bugs**, **recipe conflicts** & overall **instability**.
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-7/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.17.0</h1>
 
 **New mods. QoL. Changes, fixes & more!**
