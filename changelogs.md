@@ -1,3 +1,67 @@
+<h1>v0.19.0</h1>
+
+**New Biomes, Blue Skies, Deeper and Darker. Changes, fixes & more!**
+
+**New Main Biome Mod added: [Regions Unexplored](https://www.curseforge.com/minecraft/mc-mods/regions-unexplored).** <br />
+**Note: Generation of Biomes O' Plenty biomes are now disabled.** <br />
+**Mod will eventually be phased out (removed.)**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Blue Skies](https://www.curseforge.com/minecraft/mc-mods/blue-skies) (+ [Structure Gel API](https://www.curseforge.com/minecraft/mc-mods/structure-gel-api))
+- [Deeper and Darker](https://www.curseforge.com/minecraft/mc-mods/deeperdarker)
+- [Goblin Traders](https://www.curseforge.com/minecraft/mc-mods/goblin-traders)
+- [Mob Grinding Utils](https://www.curseforge.com/minecraft/mc-mods/mob-grinding-utils)
+- [Moyai](https://legacy.curseforge.com/minecraft/mc-mods/moyai)
+- [Regions Unexplored](https://www.curseforge.com/minecraft/mc-mods/regions-unexplored)
+- [Separated Leaves](https://www.curseforge.com/minecraft/mc-mods/separated-leaves)
+
+
+**Removed**
+- [Deep Resonance](https://www.curseforge.com/minecraft/mc-mods/deep-resonance)
+
+
+**Notable Changes**
+- **Blacklisted** more **GUIs** to **not include** the **sort buttons**.
+- **@Biomes O' Plenty** biome **generation** has been **disabled**. <br />
+(**Mod** will **eventually** be **phased out**, **removed.**)
+- Reduced **generation chances** for **some structures**.
+- **Re-enabled** the **Recipe Book button**. (**Whoops.**)
+- (**!**) Some **changes** in **mod updates**, as **always**.
+
+
+**Notable Fixes**
+- **Fixed** a few **recipe conflicts**.
+- (**!**) Some **fixes** in **mod updates**, as **always**.
+
+
+**Updated**
+- (**!**) All **mods** that **could** be **updated** have been **updated**.
+
+
+**Current Forge Version**
+- 47.1.3
+
+
+**Notes**
+- Expect **breaking updates**, some **issues**, **bugs**, **recipe conflicts** & overall **instability**.
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-7/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.18.0</h1>
 
 **Apotheosis, Gateways to Eternity, Building Gadgets. QoL. Changes & fixes + more!**
