@@ -33,6 +33,7 @@
 
 
 **Notable Fixes**
+- Fixed an issue with Wreaths always being in the results slot in crafting grids. (v0.19.1)
 - **Fixed** a few **recipe conflicts**.
 - (**!**) Some **fixes** in **mod updates**, as **always**.
 
