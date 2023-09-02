@@ -1,3 +1,79 @@
+<h1>v0.20.0</h1>
+
+**Quests return! Forbidden & Arcanus, Bedrock Ores, Chisels & Bits.** <br />
+**Changes, fixes & more!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Ars Ocultas](https://curseforge.com/minecraft/mc-mods/ars-ocultas)
+- [Bedrock Ores](https://www.curseforge.com/minecraft/mc-mods/bedrockores)
+- [Chisels & Bits](https://www.curseforge.com/minecraft/mc-mods/chisels-bits)
+- [Crabber's Delight](https://www.curseforge.com/minecraft/mc-mods/crabbers-delight)
+- [Forbidden & Arcanus](https://www.curseforge.com/minecraft/mc-mods/forbidden-arcanus)
+- [FTB Quests](https://www.curseforge.com/minecraft/mc-mods/ftb-quests-forge)
+- [Habitat](https://www.curseforge.com/minecraft/mc-mods/habitat)
+- [ImmediatelyFast](https://www.curseforge.com/minecraft/mc-mods/immediatelyfast)
+- [Nether's Delight](https://curseforge.com/minecraft/mc-mods/nethers-delight)
+- [Pretty Pipes: Fluids](https://www.curseforge.com/minecraft/mc-mods/pretty-pipes-fluids)
+- [The Conjurer](https://www.curseforge.com/minecraft/mc-mods/the-conjurer)
+- [Twilight's Flavors & Delight](https://www.curseforge.com/minecraft/mc-mods/twilights-flavors-delight)
+
+
+**Removed**
+- [Fast Workbench](https://www.curseforge.com/minecraft/mc-mods/fastworkbench) <br />
+  ^ (**Makes Polymorph not function. Will be re-added once fixed!**)
+
+
+**Notable Changes**
+- **Adjusted** some **recipes** from **@Blue Skies** to **prevent recipe conflicts**.
+- **Clusters** of **Ores** can **now be found** **embedded** in the **bedrock**.
+- Added new **Main Menu slideshow backgrounds**.
+- Client **performance improvements**.
+- (**!**) Some **changes** in **mod updates**, as **always**.
+
+
+**Notable Fixes**
+- **Ticking Entity crashes** when getting **hit** while **wearing armor** with **negative durability** has been **fixed**.
+- An **instance** where you **couldn't fly** when **going** from **Spectator** to **Creative** is now **fixed**.
+- **Fixed multiple recipes** outputting **items/blocks** from **thin air**.
+- **Polymorph** not **functioning at all** has been **fixed**.
+- **Fixed** quite a few **recipes conflicts**.
+- (**!**) Some **fixes** in **mod updates**, as **always**.
+
+
+**Quests**
+- Added **all new 1.20 advancements** to the **Vanilla+ Chapter** as **quests**.
+- Added a **new chapter**: **Rats**.
+- Re-added **33** chapters.
+
+
+**Updated**
+- (**!**) All **mods** that **could** be **updated** have been **updated**.
+
+
+**Current Forge Version**
+- 47.1.3
+
+
+**Notes**
+- Expect **breaking updates**, some **issues**, **bugs**, **recipe conflicts** & overall **instability**.
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-7/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.19.0</h1>
 
 **New Biomes, Blue Skies, Deeper and Darker. Changes, fixes & more!**
