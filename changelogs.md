@@ -1,6 +1,6 @@
 <h1>v0.20.1</h1>
 
-**Hotfix.**
+**Hotfix for world not loading / black textures.**
 
 **Always remember to backup your world(s) before updating!**
 
