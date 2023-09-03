@@ -1,3 +1,50 @@
+<h1>v0.20.1</h1>
+
+**Hotfix.**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Removed**
+- [Chisels and Bits](https://www.curseforge.com/minecraft/mc-mods/chisels-bits) <br />
+  ^ (**Caused textures to not load / becoming black on AMD GPU systems.**)
+
+
+**Notable Changes**
+- **Added** a **recipe** for **Spawner Scrap** from **@Forbidden & Arcanus**.
+
+
+**Notable Fixes**
+- **@Silent Gear Elytras** equipped in **Curios Back Slot** causing **crashes** is now **fixed**.
+- Fixed **textures not loading** / **becoming black** on **AMD GPU systems**.
+
+
+**Quests**
+- Fixed **various issues** in the **@Rats** chapter. <br />
+  ^ (**Quest completion issues.**)
+
+
+**Current Forge Version**
+- 47.1.3
+
+
+**Notes**
+- Expect **breaking updates**, some **issues**, **bugs**, **recipe conflicts** & overall **instability**.
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-7/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.20.0</h1>
 
 **Quests return! Forbidden & Arcanus, Bedrock Ores, Chisels & Bits.** <br />
