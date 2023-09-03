@@ -38,6 +38,7 @@
 - **Ticking Entity crashes** when getting **hit** while **wearing armor** with **negative durability** has been **fixed**.
 - An **instance** where you **couldn't fly** when **going** from **Spectator** to **Creative** is now **fixed**.
 - **Fixed multiple recipes** outputting **items/blocks** from **thin air**.
+- **Empty Tag issues** in **Cooking Pot recipes** are now **fixed**.
 - **Polymorph** not **functioning at all** has been **fixed**.
 - **Fixed** quite a few **recipes conflicts**.
 - (**!**) Some **fixes** in **mod updates**, as **always**.
