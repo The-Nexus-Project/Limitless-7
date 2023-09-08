@@ -1,3 +1,80 @@
+<h1>v0.21.0</h1>
+
+**Bigger Reactors, Hostile Neural Networks, New Structures.** <br />
+**QoL. Changes, fixes & more!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Better Archeology](https://www.curseforge.com/minecraft/mc-mods/better-archeology)
+- [Better Dungeons (YUNG's)](https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons)
+- [Better Jungle Temples (YUNG's)](https://www.curseforge.com/minecraft/mc-mods/yungs-better-jungle-temples)
+- [Better Mineshafts (YUNG's)](https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-forge)
+- [Better Nether Fortresses (YUNG's)](https://www.curseforge.com/minecraft/mc-mods/yungs-better-nether-fortresses)
+- [Better Ocean Monuments (YUNG's)](https://www.curseforge.com/minecraft/mc-mods/yungs-better-ocean-monuments)
+- [Better Strongholds (YUNG's)](https://www.curseforge.com/minecraft/mc-mods/yungs-better-strongholds)
+- [Better Witch Huts (YUNG's)](https://www.curseforge.com/minecraft/mc-mods/yungs-better-witch-huts)
+- [Bigger Reactors](https://www.curseforge.com/minecraft/mc-mods/biggerreactors) <br />
+  ^ **(+ [Phosphophyllite](https://www.curseforge.com/minecraft/mc-mods/phosphophyllite) & [Quartz](https://www.curseforge.com/minecraft/mc-mods/quartz))**
+- [Bridging Mod](https://legacy.curseforge.com/minecraft/mc-mods/bridging-mod)
+- [Bridges (YUNG's)](https://www.curseforge.com/minecraft/mc-mods/yungs-bridges)
+- [Create Editions](https://www.curseforge.com/minecraft/mc-mods/create-editions)
+- [Create: Steam 'n' Rails](https://www.curseforge.com/minecraft/mc-mods/create-steam-n-rails)
+- [Embeddium](https://www.curseforge.com/minecraft/mc-mods/embeddium) <br />
+  ^ (**[Rubidium](https://www.curseforge.com/minecraft/mc-mods/rubidium) replacement.**)
+- [Hostile Neural Networks](https://www.curseforge.com/minecraft/mc-mods/hostile-neural-networks)
+- [Observable](https://www.curseforge.com/minecraft/mc-mods/observable)
+- [WITS](https://www.curseforge.com/minecraft/mc-mods/wits)
+
+
+**Removed**
+- [Rubidium](https://www.curseforge.com/minecraft/mc-mods/rubidium) <br />
+  ^ (**Replaced by [Embeddium]([Embeddium](https://www.curseforge.com/minecraft/mc-mods/embeddium))**
+
+
+**Notable Changes**
+- **You can** now check **which mod** a **structure** is **from** with the **command**: **/wits**. <br />
+  ^ (**Note: You have to stand inside the structure.**)
+- **Reach-Around Placement** of **blocks** is now **possible**.
+- (**!**) Some **changes** in **mod updates**, as **always**.
+
+
+**Notable Fixes**
+- **Fixed recipe conflicts**.
+- (**!**) Some **fixes** in **mod updates**, as **always**.
+
+
+**Quests**
+- **Fixed** wrong **Silicon** being **used** in the **@Refined Storage chapter**.
+- **Fixed** all **Summon Quests** not **triggering** in the **@Occultism chapter**.
+
+
+**Updated**
+- (**!**) All **mods** that **could** be **updated** have been **updated**.
+
+
+**Current Forge Version**
+- 47.1.3
+
+
+**Notes**
+- Expect **breaking updates**, some **issues**, **bugs**, **recipe conflicts** & overall **instability**.
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-7/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.20.1</h1>
 
 **Hotfix for world not loading / black textures.**
