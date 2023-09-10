@@ -1,3 +1,67 @@
+<h1>v0.22.0</h1>
+
+**Black texture bug fixed!** <br />
+**Changes, fixes & more!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Starlight](https://www.curseforge.com/minecraft/mc-mods/starlight-forge) <br />
+  ^ (**Re-added in Server Files only**.)
+
+
+**Removed**
+- No mods removed.
+
+
+**Notable Changes**
+- **Disabled** the **Flywheel Backend** to **prevent Create Contraptions** going **invisible**. <br />
+  ^ (**Note: This will degrade performance a bit around Create. Temporary.**)
+- Added a **@Powah Energizing recipe** to **convert Uranium Ingots** to **Uraninite**.
+- Added **Uranium Ore** to the **Mining Dimension**.
+- (**!**) Some **changes** in **mod updates**, as **always**.
+
+
+**Notable Fixes**
+- An **issue** with **Textures becoming black** / **not loading** on **specific systems** is now **fixed**!
+- **Transmogrified Weapon/Tools/Armor** causing **huge fps drops** has been **fixed**.
+- **Fixed** some **Create Contraptions** being **invisible**.
+- **Time in a Bottle** **not working** has been **fixed**.
+- (**!**) Some **fixes** in **mod updates**, as **always**.
+
+
+**Quests**
+- **Changed reward** for the **"Road to the End"** quest.
+- **Changed reward** for the **"Shiny Jewelry"** quest.
+
+
+**Updated**
+- (**!**) All **mods** that **could** be **updated** have been **updated**.
+
+
+**Current Forge Version**
+- 47.1.3
+
+
+**Notes**
+- **Oculus(Shaders)** from pack **version 0.21.0** and **above** is **not compatible** for **now**. It **will** be **fixed**.
+- Expect **breaking updates**, some **issues**, **bugs**, **recipe conflicts** & overall **instability**.
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-7/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.21.0</h1>
 
 **Bigger Reactors, Hostile Neural Networks, New Structures.** <br />
