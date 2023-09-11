@@ -7,8 +7,7 @@
 
 
 **Added**
-- [Starlight](https://www.curseforge.com/minecraft/mc-mods/starlight-forge) <br />
-  ^ (**Re-added in Server Files only**.)
+- No mods added.
 
 
 **Removed**
