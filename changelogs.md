@@ -1,6 +1,5 @@
 <h1>v0.22.0</h1>
 
-**Black texture bug fixed!** <br />
 **Changes, fixes & more!**
 
 **Always remember to backup your world(s) before updating!**
@@ -23,7 +22,6 @@
 
 
 **Notable Fixes**
-- An **issue** with **Textures becoming black** / **not loading** on **specific systems** is now **fixed**!
 - **Transmogrified Weapon/Tools/Armor** causing **huge fps drops** has been **fixed**.
 - **Fixed** some **Create Contraptions** being **invisible**.
 - **Time in a Bottle** **not working** has been **fixed**.
