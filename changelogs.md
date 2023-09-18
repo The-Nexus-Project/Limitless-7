@@ -1,3 +1,79 @@
+<h1>v0.23.0</h1>
+
+**New End Island, new mods. Changes, fixes & more!** <br />
+**Note: The welcome advancement might retrigger this update.**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Advancements Optimizer](https://www.curseforge.com/minecraft/mc-mods/achievements-optimizer)
+- [Better End Island (YUNG's)](https://www.curseforge.com/minecraft/mc-mods/yungs-better-end-island)
+- [Extra Structures (YUNG's)](https://www.curseforge.com/minecraft/mc-mods/yungs-extras)
+- [FTB Quests Optimizer](https://www.curseforge.com/minecraft/mc-mods/ftb-quests-optimizer)
+- [KubeJS](https://www.curseforge.com/minecraft/mc-mods/kubejs)
+- [Macaw's Doors](https://www.curseforge.com/minecraft/mc-mods/macaws-doors/comments)
+- [Macaw's Furniture](https://www.curseforge.com/minecraft/mc-mods/macaws-furniture)
+- [Macaw's Windows](https://www.curseforge.com/minecraft/mc-mods/macaws-windows)
+- [Paxi](https://www.curseforge.com/minecraft/mc-mods/paxi)
+
+
+**Removed**
+- [CraftTweaker](https://www.curseforge.com/minecraft/mc-mods/crafttweaker) <br />
+  ^ (**Replaced by [KubeJS](https://www.curseforge.com/minecraft/mc-mods/kubejs)**)
+- [Earth Mobs](https://www.curseforge.com/minecraft/mc-mods/earth-mobs) <br />
+  ^ (**Mod was/is removed from CF.**)
+- [Item Highlighter](https://curseforge.com/minecraft/mc-mods/item-highlighter)
+- [Nyf's Quivers](https://www.curseforge.com/minecraft/mc-mods/nyfs-quivers) <br />
+  ^ (**(Crashing issues.)**)
+- [Openloader](https://www.curseforge.com/minecraft/mc-mods/open-loader) <br />
+  ^ (**Replaced by [Paxi](https://www.curseforge.com/minecraft/mc-mods/paxi)**)
+
+
+**Notable Changes**
+- **Muted** the **Minigun Stop sound** by **default** due to some **issues**.
+- **Performance improvements** around A**dvancements** & **Quests**.
+- (**!**) Some **changes** in **mod updates**, as **always**.
+
+
+**Notable Fixes**
+- **Compat** for **@Apotheosis** in **@Create Enchantment Industry** has been **fixed**.
+- Fixed **Main Menu** not **scaling** with **GUI Scale** in **Video Settings**.
+- **Time in a Bottle** **not working** has been **fixed**. (**For real now**.)
+- **Fixed** quite a few **recipe conflicts**.
+- (**!**) Some **fixes** in **mod updates**, as **always**.
+
+
+**Quests**
+- **Fixed** the **Solitary Bees quest reward** being **empty**.
+
+
+**Updated**
+- (**!**) All **mods** that **could** be **updated** have been **updated**.
+
+
+**Current Forge Version**
+- 47.1.3
+
+
+**Notes**
+- **Oculus(Shaders)** from pack **version 0.21.0** and **above** is **not compatible** for **now**. It **will** be **fixed**.
+- Expect **breaking updates**, some **issues**, **bugs**, **recipe conflicts** & overall **instability**.
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-7/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.22.0</h1>
 
 **Changes, fixes & more!**
