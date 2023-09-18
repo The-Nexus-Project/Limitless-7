@@ -25,7 +25,7 @@
   ^ (**Mod was/is removed from CF.**)
 - [Item Highlighter](https://curseforge.com/minecraft/mc-mods/item-highlighter)
 - [Nyf's Quivers](https://www.curseforge.com/minecraft/mc-mods/nyfs-quivers) <br />
-  ^ (**(Crashing issues.)**)
+  ^ (**Crashing issues.**)
 - [Openloader](https://www.curseforge.com/minecraft/mc-mods/open-loader) <br />
   ^ (**Replaced by [Paxi](https://www.curseforge.com/minecraft/mc-mods/paxi)**)
 
