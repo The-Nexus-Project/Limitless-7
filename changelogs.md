@@ -1,6 +1,7 @@
 <h1>v0.23.0</h1>
 
 **New End Island, new mods. Changes, fixes & more!** <br />
+**Black texture issues might be fixed this update.** <br />
 **Note: The welcome advancement might retrigger this update.**
 
 **Always remember to backup your world(s) before updating!**
