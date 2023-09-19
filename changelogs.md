@@ -41,6 +41,7 @@
 - **Compat** for **@Apotheosis** in **@Create Enchantment Industry** has been **fixed**.
 - Fixed **Main Menu** not **scaling** with **GUI Scale** in **Video Settings**.
 - **Time in a Bottle** **not working** has been **fixed**. (**For real now**.)
+- **Black texture issues** has **hopefully** been **fixed** this **update**.
 - **Fixed** quite a few **recipe conflicts**.
 - (**!**) Some **fixes** in **mod updates**, as **always**.
 
