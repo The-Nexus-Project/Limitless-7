@@ -21,7 +21,7 @@
 
 **Notable Changes**
 - **You can** now **showcase** items in **chat**. <br />
-  ^ (**Hover over items/blocks** in **inventory** then: **SHIFT** + **T**.)
+  ^ (**Hover over items/blocks** in **inventory** then: **SHIFT** + **X**.)
 - **You can** now **hit entities** through **Grass** or **similar**.
 - (**!**) Some **changes** in **mod updates**, as **always**.
 
