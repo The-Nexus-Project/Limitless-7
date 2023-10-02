@@ -1,3 +1,86 @@
+<h1>v0.25.0</h1>
+
+**Mekanism, many fixes & changes + much more!** <br />
+**Shader support resolved.**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Create: Bells & Whistles](https://www.curseforge.com/minecraft/mc-mods/bellsandwhistles)
+- [Blood Magic](https://www.curseforge.com/minecraft/mc-mods/blood-magic)
+- [Earth Mobs](https://www.curseforge.com/minecraft/mc-mods/earth-mobs) <br />
+  ^ (**Re-added!**)
+- [Lan Server Properties](https://www.curseforge.com/minecraft/mc-mods/lan-server-properties)
+- [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism) <br />
+  ^ (+ [Generators](https://www.curseforge.com/minecraft/mc-mods/mekanism-generators), [Tools](https://www.curseforge.com/minecraft/mc-mods/mekanism-tools), [Additions](https://www.curseforge.com/minecraft/mc-mods/mekanism-additions), [More Processing](https://curseforge.com/minecraft/mc-mods/more-mekanism-processing), [More Solar Panels](https://www.curseforge.com/minecraft/mc-mods/mekanism-moresolarpanels)  & [Applied Mekanistics](https://www.curseforge.com/minecraft/mc-mods/applied-mekanistics))
+- [Small Ships](https://www.curseforge.com/minecraft/mc-mods/small-ships)
+- [Umbral Skies](https://www.curseforge.com/minecraft/mc-mods/umbral-skies)
+
+
+**Removed**
+- No mods removed.
+
+
+**Notable Changes**
+- Some **Ore Generation** have been **swapped out** for **@Mekanism counterparts**. <br />
+  ^ (**These will be retrogenerated in existing worlds**.) <br />
+  ^ (**Dusts etc, also swapped**.)
+- **Added new food items**: <br />
+  ^ **Baked Apple**, **Roasted Carrot**, **Grilled Melon Slice**, **Golden Berries**, **Golden Melon Slice** & **Baked Glow Berries**.
+- **Open to LAN servers** can now **choose Max Player Count**, **turn off PVP** & **more**.
+- **Added** a **conversion recipe** for **@Regions Unexplored Dirt** to **Vanilla Dirt**.
+- **Re-added** the **Limitless Sword**. <br />
+  ^ (**Used in the Welcome Chapter.**)
+- **Mining Deepslate** is now the **same speed** as **normal Stone**.
+- **Buffed** the **Ore Processing** for **@Create Crushing Wheels**.
+- **Unified Plates** & **added additional recipes** for **Plates**.
+- **Added various tooltips** to some **items/blocks**.
+- **Added Compressed Variants** of **common blocks**.
+- (**!**) Some **changes** in **mod updates**, as **always**.
+
+
+**Notable Fixes**
+- **Damage & Sweeping Edge** not being **applied properly** while **swinging mobs through grass** or **similar** is now **fixed**.
+- **Fixed** the **Player Reporting** button **showing** and **overlapping** with **other buttons**.
+- **Fixed** not **being able** to **fly** using **any Creative Flight method**.
+- **Fixed** various **custom @Ender IO recipes missing**.
+- **Fixed Quantum Catcher** not being **craftable**.
+- **Shader (Oculus) support** has been **fixed**.
+- **Fixed recipe conflict(s)**.
+- (**!**) Some **fixes** in **mod updates**, as **always**.
+
+
+**Quests**
+- **Changed** a **reward** in the **Welcome Kit**.
+- **Re-added** a **chapter**: **Mekanism**.
+
+
+**Updated**
+- (**!**) All **mods** that **could** be **updated** have been **updated**.
+
+
+**Current Forge Version**
+- 47.1.3
+
+
+**Notes**
+- Expect **breaking updates**, some **issues**, **bugs**, **recipe conflicts** & overall **instability**.
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-7/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.24.0</h1>
 
 **The Aether, New Quests, Item Showcasing.** <br />
