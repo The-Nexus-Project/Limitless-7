@@ -1,3 +1,76 @@
+<h1>v0.26.0</h1>
+
+**Potions Master, Enderman Overhaul, Ars Addons.** <br />
+**Changes, fixes & more!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Ars Elemental](https://www.curseforge.com/minecraft/mc-mods/ars-elemental)
+- [Ars Énergistique](https://www.curseforge.com/minecraft/mc-mods/ars-energistique)
+- [Enderman Overhaul](https://www.curseforge.com/minecraft/mc-mods/enderman-overhaul)
+- [Formations Nether](https://www.curseforge.com/minecraft/mc-mods/formations-nether)
+- [Formations Overworld](https://www.curseforge.com/minecraft/mc-mods/formations-overworld)
+- [Just Enough Mekanism Multiblocks](https://www.curseforge.com/minecraft/mc-mods/just-enough-mekanism-multiblocks)
+- [Little Logistics](https://www.curseforge.com/minecraft/mc-mods/little-logistics)
+- [Potions Master](https://www.curseforge.com/minecraft/mc-mods/potionsmaster)
+- [Seamless](https://www.curseforge.com/minecraft/mc-mods/seamless) <br />
+  ^ (**Re-added!**)
+
+
+**Removed**
+- No mods removed.
+
+
+**Notable Changes**
+- **Added** a **conversion recipe** in the **Stonecutter** to turn **any Ender Pearl** back to the **vanilla Ender Pearl**.
+- You **can** now **calculate** the **@Mekanism construction cost** and **multiblock's ability** in **EMI, (JEI)**.
+- **Added @The Aether Saplings** to **@Botany Pots** & **@FfB Market**.
+- **Lowered** the **operation cost** of the **Digital Miner**.
+- (**!**) Some **changes** in **mod updates**, as **always**.
+
+
+**Notable Fixes**
+- **Fixed** a few **@Occultism Crusher Spirit recipes** giving **empty tags** as an **output**. <br />
+  ^ (**Hopefully, as it's a tricky issue.**)
+- **Fixed Ender Pearl Dust** giving **empty tags** in **most recipes that use it**.
+- **Fixed Mushroom Caps** having **recipe conflicts** with **Wool / String**.
+- **@Apotheosis compat** for **@Enchanting Infuser** is now **fixed**.
+- **Fixed** a **recipe conflict** between **Iron Frame** & **Iron Ring**.
+- (**!**) Some **fixes** in **mod updates**, as **always**.
+
+
+**Quests**
+- **Changed Task** for the "**Induction Casing**" quest in the **@Mekanism chapter**.
+- **Fixed** a **few invalid "missing" rewards** in the **@Mekanism chapter**.
+
+
+**Updated**
+- (**!**) All **mods** that **could** be **updated** have been **updated**.
+
+
+**Current Forge Version**
+- 47.1.3
+
+
+**Notes**
+- Expect **breaking updates**, some **issues**, **bugs**, **recipe conflicts** & overall **instability**.
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-7/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.25.0</h1>
 
 **Mekanism, many fixes & changes + much more!** <br />
