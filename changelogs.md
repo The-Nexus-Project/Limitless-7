@@ -1,3 +1,74 @@
+<h1>v0.27.0</h1>
+
+**Elemental Craft, Angel Ring, Additional Additions & Sushi?** <br />
+**Changes, fixes & more!**
+
+**Please always do a fresh install when updating the pack to avoid issues!** <br />
+**Also remember to always backup your world(s) before updating!**
+
+
+**Added**
+- [Additional Additions](https://www.curseforge.com/minecraft/mc-mods/additional-additions-forge)
+- [Angel Ring](https://curseforge.com/minecraft/mc-mods/angel-ring)
+- [Apotheotic Additions](https://www.curseforge.com/minecraft/mc-mods/apotheotic-additions)
+- [Artemis' Laboratory Blocks](https://www.curseforge.com/minecraft/mc-mods/artemis-laboratory-blocks)
+- [Elemental Craft](https://www.curseforge.com/minecraft/mc-mods/elemental-craft) <br />
+  ^ (+ [DataPack Anvil](https://www.curseforge.com/minecraft/mc-mods/datapack-anvil))
+- [Neko's Enchanted Books](https://www.curseforge.com/minecraft/mc-mods/nekos-enchanted-books)
+- [Saturn](https://www.curseforge.com/minecraft/mc-mods/saturn)
+- [Sushi Go Crafting](https://www.curseforge.com/minecraft/mc-mods/sushigocrafting)
+- [TexTrue's Embeddium Options](https://www.curseforge.com/minecraft/mc-mods/textrues-embeddium-options)
+
+
+**Removed**
+- [TexTrue's Rubidium Options](https://www.curseforge.com/minecraft/mc-mods/textrues-embeddium-options)
+
+
+**Notable Changes**
+- Added a **Note** to the **Enchanting Power tooltip** in the **Enchanting Infuser(s)**.
+- **Spawner Scrap** can **now also be crafted** with a **Broken Spawner**.
+- Most **Enchanted Books** now have a **unique texture**.
+- Added **@Blue Skies saplings** to the **@FfB Market**.
+- **Re-enabled** the **Inception Upgrade**.
+- **Improved** the **memory usage** a bit.
+- **Unified Salt**.
+- (**!**) Some **changes** in **mod updates**, as **always**.
+
+
+**Notable Fixes**
+- **Fixed** a few **recipes conflicts**.
+- (**!**) Some **fixes** in **mod updates**, as **always**.
+
+
+**Quests**
+- **Re-added** the **Inception Upgrade** to **@Sophisticated Series chapter**.
+
+
+**Updated**
+- (**!**) All **mods** that **could** be **updated** have been **updated**.
+
+
+**Current Forge Version**
+- 47.1.3
+
+
+**Notes**
+- Expect **breaking updates**, some **issues**, **bugs**, **recipe conflicts** & overall **instability**.
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-7/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.26.0</h1>
 
 **Potions Master, Enderman Overhaul, Ars Addons.** <br />
