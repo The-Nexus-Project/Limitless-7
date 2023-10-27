@@ -1,3 +1,71 @@
+<h1>v0.28.0</h1>
+
+**Alex's Caves, Naturalist, Eidolon + Embers.** <br />
+**Changes, fixes & more!**
+
+**Please always do a fresh install when updating the pack to avoid issues!** <br />
+**Also remember to always backup your world(s) before updating!**
+
+
+**Added**
+- [Alex's Caves](https://www.curseforge.com/minecraft/mc-mods/alexs-caves) <br />
+  ^ (+ [TACT](https://www.curseforge.com/minecraft/mc-mods/tact))
+- [Dark Mode Everywhere](https://www.curseforge.com/minecraft/mc-mods/dark-mode-everywhere)
+- [Eidolon: Repraised](https://www.curseforge.com/minecraft/mc-mods/eidolon-repraised)
+- [Embers Rekindled](https://www.curseforge.com/minecraft/mc-mods/embers-rekindled)
+- [Naturalist](https://www.curseforge.com/minecraft/mc-mods/naturalist)
+- [RS Insert Export Upgrade](https://www.curseforge.com/minecraft/mc-mods/rs-insert-export-upgrade)
+- [Theurgy](https://www.curseforge.com/minecraft/mc-mods/theurgy)
+
+
+**Removed**
+- [Neko's Enchanted Books](https://www.curseforge.com/minecraft/mc-mods/nekos-enchanted-books) <br />
+  ^ (**Mod file removed from CF.**)
+
+
+**Notable Changes**
+- **Disabled Generation** of the **Aluminum & Nickel Oreberry Bush**.
+- **You can now turn on** **Dark Mode** for **GUIs**. (**Off by default.**) <br />
+  ^ (Button located bottom left in inventory.)
+- **Modified** the **default texture** for **Uranium Ore**.
+- (**!**) Some **changes** in **mod updates**, as **always**.
+
+
+**Notable Fixes**
+- **Experience Obelisk** being **interactable** by **other players** inside **claimed chunks** is now **fixed**.
+- **Fixed recipe conflicts**.
+- (**!**) Some **fixes** in **mod updates**, as **always**.
+
+
+**Quests**
+- No changes.
+
+
+**Updated**
+- (**!**) All **mods** that **could** be **updated** have been **updated**.
+
+
+**Current Forge Version**
+- 47.1.3
+
+
+**Notes**
+- Expect **breaking updates**, some **issues**, **bugs**, **recipe conflicts** & overall **instability**.
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-7/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.27.0</h1>
 
 **Elemental Craft, Angel Ring, Additional Additions & Sushi?** <br />
