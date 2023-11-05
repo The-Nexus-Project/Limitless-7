@@ -1,7 +1,7 @@
 <h1>v0.29.0</h1>
 
 > **WARNING! [Expanded Storage](https://curseforge.com/minecraft/mc-mods/expanded-storage) removed!** <br />
-> **Do NOT update until you have moved your items out those chests/barrels!**
+> **Do NOT update until you have moved your items out of all Chests/Barrels!**
 
 **Iron's Spells 'n Spellbooks, Tetra, The Bumblezone.** <br />
 **Changes, fixes & more!**
