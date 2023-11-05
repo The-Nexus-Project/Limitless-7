@@ -1,3 +1,86 @@
+<h1>v0.29.0</h1>
+
+> **WARNING! [Expanded Storage](https://curseforge.com/minecraft/mc-mods/expanded-storage) removed!** <br />
+> **Do NOT update until you have moved your items out those chests/barrels!**
+
+**Iron's Spells 'n Spellbooks, Tetra, The Bumblezone.** <br />
+**Changes, fixes & more!**
+
+**Please always do a fresh install when updating the pack to avoid issues!** <br />
+**Also remember to always backup your world(s) before updating!**
+
+
+**Added**
+- [Iron's Spells 'n Spellbooks](https://www.curseforge.com/minecraft/mc-mods/irons-spells-n-spellbooks)
+- [Let's Do: Meadow](https://www.curseforge.com/minecraft/mc-mods/welcome-to-meadow)
+- [Let's Do: Nether Vinery](https://legacy.curseforge.com/minecraft/mc-mods/lets-do-nethervinery)
+- [Tetra](https://www.curseforge.com/minecraft/mc-mods/tetra)
+- [The Bumblezone](https://www.curseforge.com/minecraft/mc-mods/the-bumblezone-forge)
+- [Tips](https://www.curseforge.com/minecraft/mc-mods/tips)
+- [Twilight Forest: The Lost Blocks](https://www.curseforge.com/minecraft/mc-mods/twilight-forest-the-lost-blocks)
+- [Utilitarian](https://www.curseforge.com/minecraft/mc-mods/utilitarian) <br />
+  ^ (**NoMoWanderer alternative**.)
+
+
+**Removed**
+- [Create Structures](https://www.curseforge.com/minecraft/mc-mods/create-structures) <br />
+  ^ (**Removed from CurseForge**.)
+- [Expanded Storage](https://curseforge.com/minecraft/mc-mods/expanded-storage) <br />
+  ^ (**Removed from CurseForge**.)
+
+
+**Notable Changes**
+- **Lowered** the **chances** of **@Apotheosis gems generating** in **Loot Chests** around the **world**.
+- **Two** new **Mining Dimensions added**, **one** for **The Nether** & **one** for **The End.** <br />
+  ^ (**Both dimensions access by crafting their Portal Block.**) <br />
+    (**Place then right-click it.**)
+- **Lowered chances** of "**Sal Ammoniac Ore**" **generating**.
+- Added **Tips** to the **world loading screen(s)** & **pause menu**.
+- (**!**) Some **changes** in **mod updates**, as **always**.
+
+
+**Notable Fixes**
+- **Fixed Lead + Silver Ore** from **@Eidolon** & **@Embers dropping** from the **Boon of the Earth enchantment**.
+- **Fixed** some **items dropped** by **mobs** having the **"picked" nbt data** and therefore **could not stack**.
+- **Fixed** a **recipe conflict issue** with **Uranium Block (& Raw) craft + uncrafting**.
+- **Crashes** when **moving servers up or down in server list** is now **fixed**.
+- **Fixed** a few **missing recipes** in the **@Occultism Miners**. <br />
+  ^ (**Empty tag issues**.)
+- **Fixed duplicate potion effect tooltip descriptions**.
+- (**!**) Some **fixes** in **mod updates**, as **always**.
+
+
+**Quests**
+- **Fixed invalid quest**s in the **Gadgets** & **Iron Galore chapters**.
+- **Added 2 new quests** to the **Adventure chapter**.
+- **Added 2 new quests** to the **Gadgets chapter**.
+
+
+**Updated**
+- (**!**) All **mods** that **could** be **updated** have been **updated**.
+
+
+**Current Forge Version**
+- 47.1.3
+
+
+**Notes**
+- Expect **breaking updates**, some **issues**, **bugs**, **recipe conflicts** & overall **instability**.
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-7/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.28.0</h1>
 
 **Alex's Caves, Naturalist, Eidolon + Embers.** <br />
