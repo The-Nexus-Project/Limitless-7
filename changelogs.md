@@ -1,3 +1,67 @@
+<h1>v0.30.0</h1>
+
+**Smaller update.** <br />
+**Includes fixes, some changes & more!**
+
+**Please always do a fresh install when updating the pack to avoid issues!** <br />
+**Also remember to always backup your world(s) before updating!**
+
+
+**Added**
+- [Tetracelium](https://www.curseforge.com/minecraft/mc-mods/tetracelium)
+
+
+**Removed**
+- [Diagonal Windows](https://www.curseforge.com/minecraft/mc-mods/diagonal-windows) <br />
+  ^ (**Caused issues**.)
+
+
+
+**Notable Changes**
+- **Trapdoors** & **Fence gates** no longer opens **simultaneously**.
+- (**!**) Some **changes** in **mod updates**, as **always**.
+
+
+**Notable Fixes**
+- **Fixed** some **logs** from **@Meadow** not **being usable** in **recipes**.
+- A **crash** when **loading** certain **armor models** has been **fixed**.
+- **Fixed** a few **missing recipes** in the **@Occultism Miners**. <br />
+  ^ (**Empty tag issues, again..**)
+- **Connecting Glass Panes** not **connecting** is now **fixed**.
+- A **possible worldgen deadlock** has been **fixed**.
+- A **duping exploit** has been **fixed**.
+- (**!**) Some **fixes** in **mod updates**, as **always**.
+
+
+**Quests**
+- **Fixed** a few **typos**, **changed some text**.
+
+
+**Updated**
+- (**!**) All **mods** that **could** be **updated** have been **updated**.
+
+
+**Current Forge Version**
+- 47.1.3
+
+
+**Notes**
+- Expect **breaking updates**, some **issues**, **bugs**, **recipe conflicts** & overall **instability**.
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-7/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.29.0</h1>
 
 > **WARNING! [Expanded Storage](https://curseforge.com/minecraft/mc-mods/expanded-storage) removed!** <br />
