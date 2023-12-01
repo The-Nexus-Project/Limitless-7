@@ -1,3 +1,76 @@
+<h1>v0.31.0</h1>
+
+**Botania & Immersive Engineering, more Polymorph support.** <br />
+**Changes, fixes & more!**
+
+**Please always do a fresh install when updating the pack to avoid issues!** <br />
+**Also remember to always backup your world(s) before updating!**
+
+
+**Added**
+- [AECapFix](https://www.curseforge.com/minecraft/mc-mods/aecapfix)
+- [Botania](https://www.curseforge.com/minecraft/mc-mods/botania)
+- [Immersive Engineering](https://www.curseforge.com/minecraft/mc-mods/immersive-engineering)
+- [Polymorphic Energistics](https://www.curseforge.com/minecraft/mc-mods/polymorphic-energistics)
+- [Refined Polymorphism](https://www.curseforge.com/minecraft/mc-mods/refined-polymorphism)
+- [XNet Gases](https://www.curseforge.com/minecraft/mc-mods/xnet-gases)
+
+
+**Removed**
+- [Roots Classic](https://www.curseforge.com/minecraft/mc-mods/roots-classic) <br />
+  ^ (**Will be re-added if it supports Forge 47.2.0+!**)
+
+
+**Notable Changes**
+- **Ores** generated in the **Mining Dimension(s)** should now be **properly evenly distributed** across all **Y levels**, **not** just **middle Y**. <br />
+  ^ (**For newly generated chunks**.)
+- **Buffed** the **@Wireless Chargers Transfer Rates**. For **Basic** & **Advanced**.
+- (**!**) Some **changes** in **mod updates**, as **always**.
+
+
+**Notable Fixes**
+- **Transferring** a **recipe** from **EMI** to "**table**" should now **highlight missing ingredients properly**.
+- **Camera** not being **updated** when using **@Shrink mod** is now **fixed**.
+- **Fixed** a **recipe conflict** with **Compressed Cobblestone**.
+- **Fixed** a **small duplication exploit**.
+- (**!**) Some **fixes** in **mod updates**, as **always**.
+
+
+**Quests**
+- **Added** some **warnings** to some **Chapters** due to some **known "freezing" issues**.
+- The **chapter**: '**Roots Classic**' has been **removed**. <br />
+  ^ (**Mod removed**.)
+- **Re-added chapter**: **Botania**.
+- **Re-added chapter**: **Immersive Engineering**.
+- **Minor fixes**.
+
+
+**Updated**
+- **Forge** from version **47.1.3** to **47.2.0**
+- (**!**) All **mods** that **could** be **updated** have been **updated**.
+
+
+**Current Forge Version**
+- 47.2.0
+
+
+**Notes**
+- Expect **breaking updates**, some **issues**, **bugs**, **recipe conflicts** & overall **instability**.
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-7/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.30.0</h1>
 
 **Smaller update.** <br />
