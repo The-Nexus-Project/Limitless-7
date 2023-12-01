@@ -55,6 +55,7 @@
 
 
 **Notes**
+- **Storage Drawers** might get **unlinked** from **Controllers** this **update**!
 - Expect **breaking updates**, some **issues**, **bugs**, **recipe conflicts** & overall **instability**.
 
 
