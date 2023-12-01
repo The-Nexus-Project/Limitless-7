@@ -3,6 +3,8 @@
 **Botania & Immersive Engineering, more Polymorph support.** <br />
 **Changes, fixes & more!**
 
+**Note: Storage Drawers might get unlinked from Controllers this update!**
+
 **Please always do a fresh install when updating the pack to avoid issues!** <br />
 **Also remember to always backup your world(s) before updating!**
 
