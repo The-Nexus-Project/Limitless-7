@@ -1,4 +1,4 @@
-<h1>v0.32.1</h1>
+<h1>v0.31.1</h1>
 
 **Hotfix. Fixes for crashes!**
 
