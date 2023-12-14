@@ -1,3 +1,61 @@
+<h1>v0.32.0</h1>
+
+**Smaller update!** <br />
+**Changes, fixes & more!**
+
+**Please always do a fresh install when updating the pack to avoid issues!** <br />
+**Also remember to always backup your world(s) before updating!**
+
+
+**Added**
+- [FastFurnace](https://www.curseforge.com/minecraft/mc-mods/fastfurnace)
+- [FastWorkbench](https://www.curseforge.com/minecraft/mc-mods/fastworkbench)
+
+
+**Removed**
+- No mods removed.
+
+
+**Notable Changes**
+- **Added** a **little something** for **Christmas** & **New Years**. <br />
+  ^ (**Occurs every year on the same dates**.)
+- (**!**) Some **changes** in **mod updates**, as **always**.
+
+
+**Notable Fixes**
+- (**!**) Some **fixes** in **mod updates**, as **always**.
+
+
+**Quests**
+- No changes.
+
+
+**Updated**
+- (**!**) All **mods** that **could** be **updated** have been **updated**.
+
+
+**Current Forge Version**
+- 47.2.0
+
+
+**Notes**
+- **Known issue**: **Keybinds** that uses **multiple keys** to **trigger actions** doesn't work as expected. **Fixed soon**!
+- Expect **breaking updates**, some **issues**, **bugs**, **recipe conflicts** & overall **instability**.
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-7/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.31.1</h1>
 
 **Hotfix. Fixes for crashes!**
