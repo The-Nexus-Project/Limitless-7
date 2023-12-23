@@ -1,3 +1,85 @@
+<h1>v0.34.0</h1>
+
+**Thermal Series, Enigmatic Legacy, Quests & more mods.** <br />
+**Changes, fixes + more!**
+
+**Please always do a fresh install when updating the pack to avoid issues!** <br />
+**Also remember to always backup your world(s) before updating!**
+
+
+**Added**
+- [AIOT Botania](https://www.curseforge.com/minecraft/mc-mods/aiot-botania)
+- [Apothic Curios](https://www.curseforge.com/minecraft/mc-mods/apothic-curios)
+- [Applied Botanics Addon](https://www.curseforge.com/minecraft/mc-mods/applied-botanics-addon)
+- [EMI Effects](https://www.curseforge.com/minecraft/mc-mods/emiffect-status-effects-emi-plugin)
+- [EMI Loot](https://www.curseforge.com/minecraft/mc-mods/emi-loot)
+- [Enigmatic Legacy](https://www.curseforge.com/minecraft/mc-mods/enigmatic-legacy)
+- [Industrial Foregoing: Souls](https://www.curseforge.com/minecraft/mc-mods/industrial-foregoing-souls)
+- [Thermal Dynamics](https://www.curseforge.com/minecraft/mc-mods/thermal-dynamics)
+- [Thermal Expansion](https://www.curseforge.com/minecraft/mc-mods/thermal-expansion)
+- [Thermal Extra](https://www.curseforge.com/minecraft/mc-mods/thermal_extra)
+- [Thermal Foundation](https://www.curseforge.com/minecraft/mc-mods/thermal-foundation)
+- [Thermal Innovation](https://www.curseforge.com/minecraft/mc-mods/thermal-innovation)
+- [Thermal Integration](https://www.curseforge.com/minecraft/mc-mods/thermal-integration)
+- [Thermal Locomotion](https://www.curseforge.com/minecraft/mc-mods/thermal-locomotion)
+- [Thermal Systeams](https://www.curseforge.com/minecraft/mc-mods/systeams)
+
+
+**Removed**
+- [Tetra](https://www.curseforge.com/minecraft/mc-mods/tetra)
+- [Tetracelium](https://www.curseforge.com/minecraft/mc-mods/tetracelium) <br />
+  ^ (**Why?: Tetra has a datapack error bug that could occur when re-entering worlds**.) <br />
+    (**You can re-add these mods to your instance if you wish to continue playing with it**.) <br />
+    (**Once the issues are fixed it'll be re-added. In an update or two**.)
+
+
+**Notable Changes**
+- **EMI** now **shows status effects** as **searchable "items"** that can be **viewed** for **detailed information** about **each status effect(s)**. <br />
+  ^ **(For mods that support it**.)
+- **Added** **@IE Cloche** support for **@Mystical Agriculture**, **@Blue Skies Seeds** & **many other seeds**.
+- **Backups** of **worlds** are now **created every 30 minutes** instead of **every hour**.
+- **@Blue Skies dimensions** should now **load terrain faster**.
+- **EMI** now **displays loot tables** for **chests** & **mobs**.
+- (**!**) Some **changes** in **mod updates**, as **always**.
+
+
+**Notable Fixes**
+- Any **keybinds** that uses **multiple binds** to **trigger actions** now **works** as **expected again**.
+- A **datapack error** that **could occur** when **trying to re-enter worlds** is now **fixed**.
+- (**!**) Some **fixes** in **mod updates**, as **always**.
+
+
+**Quests**
+- **Re-added chapter**: **Enigmatic Legacy**.
+- **Re-added chapter**: **Thermal Series**.
+
+
+**Updated**
+- **Forge** from version **47.2.0** to **47.2.17**
+- (**!**) All **mods** that **could** be **updated** have been **updated**.
+
+
+**Current Forge Version**
+- 47.2.17
+
+
+**Notes**
+- Expect **breaking updates**, some **issues**, **bugs**, **recipe conflicts** & overall **instability**.
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-7/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.33.0</h1>
 
 **Important update!** <br />
