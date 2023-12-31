@@ -1,3 +1,71 @@
+<h1>v0.35.0</h1>
+
+**Lots of fixes, two new mods.** <br />
+**Changes, fixes & more!**
+
+**Please always do a fresh install when updating the pack to avoid issues!** <br />
+**Also remember to always backup your world(s) before updating!**
+
+
+**Added**
+- [Ensorcellation](https://www.curseforge.com/minecraft/mc-mods/ensorcellation)
+- [Glassential Renewed](https://www.curseforge.com/minecraft/mc-mods/glassential-renewed)
+
+
+**Removed**
+- [Eating Animation](https://www.curseforge.com/minecraft/mc-mods/eating-animation-forge)
+- [GroovyModLoader](https://www.curseforge.com/minecraft/mc-mods/gml) <br />
+  ^ (**Caused connection issues & crashes for a small percentage of players**)
+- [EMI](https://www.curseforge.com/minecraft/mc-mods/emi) (+ [Addons](https://gist.github.com/Gbergz/1c023e5e655f18baddec7fef91454dfe)) <br />
+  ^ (**EMI was a great test run but it does have too many issues right now**.)
+
+
+**Notable Changes**
+- (**!**) Some **changes** in **mod updates**, as **always**.
+
+
+**Notable Fixes**
+- The **length** of the **lag spike** when **clicking certain Quest Chapters** has been **reduced**. <br />
+  ^ (**Hopefully this can be resolved fully in a future update**.)
+- A very **rare crash** happening only to a **small percentage** of **players** has been **fixed**.
+- **Watering Cans** not working in **automated blocks (fake player blocks)** is now **fixed**.
+- A lot of **Items & Blocks + recipes** missing from **JEI** has been **fixed**.
+- The **Salvager** from **@SilentGear** causing **extreme lag** is now **fixed**.
+- **Various crashes** related to **The Bumblezone** are now **fixed**.
+- Fixed **Tags always showing** with **F3 + H enabled**.
+- Fixed **duplicate enchantment descriptions**.
+- (**!**) Some **fixes** in **mod updates**, as **always**.
+
+
+**Quests**
+- No changes.
+
+
+**Updated**
+- (**!**) All **mods** that **could** be **updated** have been **updated**.
+
+
+**Current Forge Version**
+- 47.2.17
+
+
+**Notes**
+- Expect **breaking updates**, some **issues**, **bugs**, **recipe conflicts** & overall **instability**.
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-7/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.34.0</h1>
 
 **Thermal Series, Enigmatic Legacy, Quests & more mods.** <br />
