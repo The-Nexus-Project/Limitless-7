@@ -1,3 +1,37 @@
+<h1>v0.35.1</h1>
+
+**Hotfix!**
+
+**Please always do a fresh install when updating the pack to avoid issues!** <br />
+**Also remember to always backup your world(s) before updating!**
+
+
+**Notable Fixes**
+- Fixed **Unwitnessed Amulet** using the wrong **Gold Chain** in its **recipe**.
+- A **crash** when **activating** a **Piston** is now **fixed**.
+
+
+**Current Forge Version**
+- 47.2.17
+
+
+**Notes**
+- Expect **breaking updates**, some **issues**, **bugs**, **recipe conflicts** & overall **instability**.
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-7/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.35.0</h1>
 
 **Lots of fixes, two new mods.** <br />
