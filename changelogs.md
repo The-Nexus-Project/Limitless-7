@@ -1,3 +1,82 @@
+<h1>v0.36.0</h1>
+
+**Three new mods, three removed, changes, lots of fixes & more!**
+
+**Please always do a fresh install when updating the pack to avoid issues!** <br />
+**Also remember to always backup your world(s) before updating!**
+
+
+**Added**
+- [Crafting Station: JEI Edition](https://www.curseforge.com/minecraft/mc-mods/crafting-station-jei-edition)
+- [Miner's Delight](https://www.curseforge.com/minecraft/mc-mods/miners-delight-plus)
+- [Not Enough Animations](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations)
+
+
+**Removed**
+- [Apothic Curios](https://curseforge.com/minecraft/mc-mods/apothic-curios) <br />
+  ^ (**Currently not functional and also causes crashes**.)
+- [Log Begone](https://www.curseforge.com/minecraft/mc-mods/log-begone) <br />
+  ^ (**Mod is not functional**.)
+- [Universal Enchants](https://www.curseforge.com/minecraft/mc-mods/universal-enchants-forge) <br />
+  ^ (**Causes crashes**.)
+
+
+**Notable Changes**
+- **Added** some **JEI Info pages** to **a few items**. Example: **Heart of the Earth**.
+- **Increased** the **chances** of the **Wandering Trader** having **Globe trades**.
+- **Added more Loot** to the **Loot Crate**: **Treasure Chest**.
+- **@JEI** is now **hidden** until you **search for something**. <br />
+  ^ (**Can be toggled off in Embeddium Settings** > **Performance tab**.) <br />
+  ^ (**Or put a space into the search bar**.)
+- **Lowered** the **generation chances** of **a lot of structures**.
+- **Added two new Tips** to the **Loading Screen**.
+- **Added recipes** for the **@Ad Astra globes**.
+- **Re-added** the **Wool** to **String recipe**.
+- (**!**) Some **changes** in **mod updates**, as **always**.
+
+
+**Notable Fixes**
+- **Fixed Loot Crate**: **Treasure Chest** containing the **wrong type** of **Silver Ingot**.
+- **Fixed(removed) sort buttons overlapping** with **@Dank Storage's** own **buttons**.
+- **Fixed** the **lag spikes** that **could occur** when **clicking** some **Quest Chapters**.
+- A **@Deep Aether crash** that **could** affect **@The Bumblezone** has been **fixed**.
+- The **@Curios Toggle Visibility** buttons **not working** has been **fixed**.
+- A **crash** related to the **Mending Enchantment** is now **fixed**.
+- **Fixed** a **possible crash** related to **Entity Collisions**.
+- **Fixed** some **crashes** surrounding **@Powah** & **@AE2**.
+- (**!**) Some **fixes** in **mod updates**, as **always**.
+
+
+**Quests**
+- **Added** a **note** to the "**Into Centipedes!**" **rats quest** to **clarify** how to **get it**.
+- A **few quests** might **reset/re-trigger** as of **this update**.
+
+
+**Updated**
+- (**!**) All **mods** that **could** be **updated** have been **updated**.
+
+
+**Current Forge Version**
+- 47.2.17
+
+
+**Notes**
+- Expect **breaking updates**, some **issues**, **bugs**, **recipe conflicts** & overall **instability**.
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-7/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.35.1</h1>
 
 **Hotfix!**
