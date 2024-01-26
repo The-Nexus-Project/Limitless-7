@@ -1,3 +1,75 @@
+<h1>v0.37.0</h1>
+
+**New mods, some changes, fixes & more!**
+
+**Please always do a fresh install when updating the pack to avoid issues!** <br />
+**Also remember to always backup your world(s) before updating!**
+
+
+**Added**
+- [Client Crafting](https://www.curseforge.com/minecraft/mc-mods/client-crafting)
+- [Fast Async World Save](https://www.curseforge.com/minecraft/mc-mods/fast-async-world-save-forge-fabric)
+- [More Dragon Eggs](https://www.curseforge.com/minecraft/mc-mods/more-dragon-eggs)
+- [Tom's Trading Network](https://www.curseforge.com/minecraft/mc-mods/toms-trading-network)
+
+
+**Removed**
+- No mods removed.
+
+
+**Notable Changes**
+- **Killing** the **Ender Dragon** will now **always** spawn a new **Dragon Egg** at the **middle End Fountain**.
+- **Reduced spawnrates(weight)** for **Crystal Zombie**, **Glow Skeleton** & **Overgrown Skeleton**.
+- **Added support** for the **tree type: Illwood** from **@Eidolon** to **@Botany Pots**.
+- **Blacklisted** lots of **GUIs** to **prevent sort buttons** from **showing up**.
+- **Re-added** quite a few **Tips** from **LL6** to the **Loading Screen**.
+- The **Crafting Station** now has **@Polymorph support**. <br />
+  ^ (**Select what output if there's a recipe conflict**.)
+- **Improved** the **server performance** a **little bit**.
+- **Added** a **recipe** for the **Rubber Seed**.
+- **Unified item**: **Coal Coke**.
+- (**!**) Some **changes** in **mod updates**, as **always**.
+
+
+**Notable Fixes**
+- A **crash** when **opening** the **Dictiorany of Spirits** (**@Occultism guide book**) has been **fixed**.
+- **Fixed** some **crafting issues** related to **@Thermal Rubber**.
+- A **crash** related to **@AE2 Quantum Bridge** is now **fixed**.
+- **Fixed** a **small dupe** with **Raw Redstone Block**.
+- (**!**) Some **fixes** in **mod updates**, as **always**.
+
+
+**Quests**
+- The **"Benchmarking"** quest now also **completes** with **Crafting Station**, **Slab** & **Crafting Table on a Stick**.
+- Very **few quests** might **reset/re-trigger** as of **this update**.
+- **Minor changes** to a **few chapters**.
+
+
+**Updated**
+- (**!**) All **mods** that **could** be **updated** have been **updated**.
+
+
+**Current Forge Version**
+- 47.2.17
+
+
+**Notes**
+- Expect **breaking updates**, some **issues**, **bugs**, **recipe conflicts** & overall **instability**.
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-7/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.36.0</h1>
 
 **Three new mods, three removed, changes, lots of fixes & more!**
