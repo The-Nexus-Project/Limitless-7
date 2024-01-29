@@ -1,11 +1,13 @@
 <h1>v0.37.1</h1>
 
-**Notes**
-- Hotfix for a developer feature that was left on unintentionally that could ruin a base if accidentally clicked. <br />
-It's recommended to update if you're on 0.37.0.
+**Hotfix.**
 
 **Please always do a fresh install when updating the pack to avoid issues!** <br />
 **Also remember to always backup your world(s) before updating!**
+
+**Notes**
+- Hotfix for a developer feature that was left on unintentionally that could ruin a base if accidentally clicked. <br />
+It's recommended to update if you're on 0.37.0.
 
 
 **Reporting Issues**
