@@ -1,3 +1,100 @@
+<h1>v0.38.0</h1>
+
+**Big update! Let's hope nothing major breaks.** <br />
+**Quark, Mahou Tsukai, Chisels & Bits, End Game chapter returns & more!**
+
+**Note: If you're using Oculus, you now need version 1.6.15 or above.**
+
+**Please always do a fresh install when updating the pack to avoid issues!** <br />
+**Also remember to always backup your world(s) before updating!**
+
+
+**Added**
+- [Chisels & Bits](https://www.curseforge.com/minecraft/mc-mods/chisels-bits)
+- [Dimensional Pockets II](https://www.curseforge.com/minecraft/mc-mods/dimensional-pockets-ii) <br />
+  ^ (**Note: Think of this like** [Compact Machines](https://www.curseforge.com/minecraft/mc-mods/compact-machines).)
+- [Etched](https://www.curseforge.com/minecraft/mc-mods/etched)
+- [Extended Crafting](https://www.curseforge.com/minecraft/mc-mods/extended-crafting)
+- [Forge Config Screens](https://www.curseforge.com/minecraft/mc-mods/config-menus-forge)
+- [Just Enough Calculation](https://www.curseforge.com/minecraft/mc-mods/just-enough-calculation)
+- [Mahou Tsukai](https://www.curseforge.com/minecraft/mc-mods/mahou-tsukai)
+- [Mega Cells](https://www.curseforge.com/minecraft/mc-mods/mega-cells)
+- [More Overlays](https://www.curseforge.com/minecraft/mc-mods/more-overlays-updated)
+- [Mythic Botany](https://www.curseforge.com/minecraft/mc-mods/mythicbotany)
+- [No Villager Death Messages](https://www.curseforge.com/minecraft/mc-mods/no-villager-death-messages)
+- [Quark](https://www.curseforge.com/minecraft/mc-mods/quark)
+- [Tome of Blood: Rebirth](https://www.curseforge.com/minecraft/mc-mods/tome-of-blood-rebirth)
+- [Universal Sawmill](https://www.curseforge.com/minecraft/mc-mods/sawmill)
+
+
+**Removed**
+- [Corail Woodcutter](https://curseforge.com/minecraft/mc-mods/corail-woodcutter) <br />
+  ^ (**Note: Replaced by [Universal Sawmill](https://www.curseforge.com/minecraft/mc-mods/sawmill)**.)
+- [Light Overlay](https://www.curseforge.com/minecraft/mc-mods/light-overlay) <br />
+  ^ (**Note: Replaced by [More Overlays](https://www.curseforge.com/minecraft/mc-mods/more-overlays-updated)**.)
+- [Nyf's Spiders](https://www.curseforge.com/minecraft/mc-mods/nyfs-spiders) <br />
+  ^ (**Note: Performance reasons**.)
+
+
+**Notable Changes**
+- **You can** now **Double-Click** the **JEI Search Bar** to **highlight items** you've **searched for in chests**, **etc**.
+- **Holding SHIFT** with "**Advanced Tooltips (F3+H)**" **enabled** is now **required** to **view Tooltip Tags**.
+- **Added support** for **more Tools & Armor** in the **@Silent Gear Salvager**. <br />
+  ^ (**Note: Even more support will be added in the future**.)
+- **Added** a **few new tips** to the **world loading screens** / **pause menu**.
+- **Most** if not **all configs** can **now** be **configured directly in-game**.
+- **Added** a **few more guide books** to the **Eccentric Tome recipe**.
+- **Re-enabled** the **@Twilight Forest Uncrafting Table recipe**. <br />
+  ^ (**Note: Uncrafting functionality remains off due to dupes and other issues**.)
+- **Re-added recipes** for **7 Creative items** / **blocks**. <br />
+  ^ (**Note: Recipes for these might change over time**.)
+- (**!**) Some **changes** in **mod updates**, as **always**.
+
+
+**Notable Fixes**
+- **Fixed tags** taking up the **whole tooltip** when "**Advanced Tooltips (F3+H)**" was **enabled**.
+- **Fixed** the **@IE Villager House Crate** containing the **wrong types** of **items**.
+- **Fixed lots** of **recipe conflicts** / **overlaps**. <br />
+  ^ (**Note: If you find any, please report them**!)
+- **Step Assist not working** is now **fixed**.
+- (**!**) Some **fixes** in **mod updates**, as **always**.
+
+
+**Quests**
+- The **"Welcome kit"** now **includes** a **filled @Eccentric Tome book**.
+- **Updated** the **@Botania Chapter** to include **@Mythic Botany**. <br />
+  ^ (**Note: This might cause some quests to reset**.)
+- **Added 11 more quests** to the **@AE2 Chapter**.
+- **Added** a **new Chapter**: **@Ender IO**.
+- **Re-added** a **Chapter**: **End Game**.
+- **Minor changes** to **other chapters**.
+
+
+**Updated**
+- (**!**) All **mods** that **could** be **updated** have been **updated**.
+
+
+**Current Forge Version**
+- 47.2.17
+
+
+**Notes**
+- Expect **breaking updates**, some **issues**, **bugs**, **recipe conflicts** & overall **instability**.
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-7/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.37.1</h1>
 
 **Hotfix.**
