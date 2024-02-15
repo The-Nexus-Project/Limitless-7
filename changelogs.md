@@ -3,7 +3,7 @@
 **Big update! Let's hope nothing major breaks.** <br />
 **Quark, Mahou Tsukai, Chisels & Bits, End Game chapter returns & more!**
 
-**Note: If you're using Oculus, you now need version 1.6.15 or above.**
+**Note: If you're using Oculus, you now need version 1.6.15.**
 
 **Please always do a fresh install when updating the pack to avoid issues!** <br />
 **Also remember to always backup your world(s) before updating!**
