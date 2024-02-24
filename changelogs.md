@@ -1,3 +1,77 @@
+<h1>v0.40.0</h1>
+
+**New mods. Many changes, fixes & more!**
+
+**Please always do a fresh install when updating the pack to avoid issues!** <br />
+**Also remember to always backup your world(s) before updating!**
+
+
+**Added**
+- [Better Ping Display](https://www.curseforge.com/minecraft/mc-mods/better-ping-display)
+- [Create Central Kitchen](https://www.curseforge.com/minecraft/mc-mods/create-central-kitchen)
+- [Fast IP Ping](https://www.curseforge.com/minecraft/mc-mods/fast-ip-ping)
+- [Glued](https://www.curseforge.com/minecraft/mc-mods/glued)
+
+
+**Removed**
+- [Create Slice & Dice](https://www.curseforge.com/minecraft/mc-mods/slice-and-dice) <br />
+  ^ (**Removed due to causing Empty Tag issues in Farmer's Delight recipes**.) <br />
+  ^ (**Replaced by** [Create Central Kitchen](https://www.curseforge.com/minecraft/mc-mods/create-central-kitchen).)
+
+
+**Notable Changes**
+- **Added @Embers Ancient Codex** & **@Ad Astra Astrodux (guide books)** to the **Eccentric Tome recipe**.
+- Your **Ping** on **TAB List** is now **displayed** in **numbers** instead of **connection bars**.
+- **Increased** the **generation chance** for @**Artifacts Campsites** underground. <br />
+  ^ (**Along with increased chances for a Mimic instead of a chest**.)
+- **Blacklisted** more **GUIs** to **not include** the **sort buttons**.
+- **Modded Crops** should **now generate** in **Modded Biomes**.
+- **Connecting to** & **pinging servers** is now **faster**.
+- **Disabled** the **Spawner Detector** due to **crashes**.
+- **Re-added** the **normal End Crystal recipe**.
+- **Added** a few **new tips**.
+- (**!**) Some **changes** in **mod updates**, as **always**.
+
+
+**Notable Fixes**
+- **Fixed Treated Wood Fence** becoming "**diagonal**" **preventing** certain **@IE multiblocks** from **forming**.
+- **Fixed** an **issue** with **mobs** not **rendering past** the **50 block threshold**. <br />
+  ^ (**This includes the Ender Dragon, which could be annoying during the fight**.) <br />
+  ^ (**Distance on Mobs now follows the Entity Culling options in Embeddium settings**.)
+- **Empty Tag issues** in **Farmer's Delight recipes** is now **fixed**.
+- A **crash** while in **The Nether** has been **fixed**.
+- (**!**) Some **fixes** in **mod updates**, as **always**.
+
+
+**Quests**
+- No changes.
+
+
+**Updated**
+- (**!**) All **mods** that **could** be **updated** have been **updated**.
+
+
+**Current Forge Version**
+- 47.2.17
+
+
+**Notes**
+- Expect **breaking updates**, some **issues**, **bugs**, **recipe conflicts** & overall **instability**.
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-7/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.39.0</h1>
 
 **New mods. Lots of fixes, various changes & more!**
