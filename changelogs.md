@@ -1,3 +1,87 @@
+<h1>v0.41.0</h1>
+
+**Reintroduce some mods from LL6, worldgen structure fixes, other changes & more!**
+
+**Please always do a fresh install when updating the pack to avoid issues!** <br />
+**Also remember to always backup your world(s) before updating!**
+
+
+**Added**
+- [CC:C Bridge](https://www.curseforge.com/minecraft/mc-mods/cccbridge)
+- [Compressed Creativity](https://www.curseforge.com/minecraft/mc-mods/compressedcreativity)
+- [Ecologics](https://www.curseforge.com/minecraft/mc-mods/ecologics)
+- [Gadgets Against Grind](https://www.curseforge.com/minecraft/mc-mods/gag)
+- [Gravitational Modulating Additional Unit](https://www.curseforge.com/minecraft/mc-mods/gravitational-modulating-additional-unit)
+- [Immersive Weathering](https://www.curseforge.com/minecraft/mc-mods/immersive-weathering-forge)
+- [Integrated Dungeons & Structures](https://www.curseforge.com/minecraft/mc-mods/idas)
+- [It Takes a Pillage](https://www.curseforge.com/minecraft/mc-mods/it-takes-a-pillage)
+- [Little Contraptions](https://www.curseforge.com/minecraft/mc-mods/little-contraptions)
+- [Paintings ++](https://www.curseforge.com/minecraft/mc-mods/paintings)
+- [Platforms](https://www.curseforge.com/minecraft/mc-mods/platforms)
+- [Uppers](https://www.curseforge.com/minecraft/mc-mods/uppers)
+
+
+**Removed**
+- [ChocoCraft](https://www.curseforge.com/minecraft/mc-mods/chococraft) <br />
+  ^ (**Note: Removed due to worldgen crashes**.)
+- [More Buckets](https://www.curseforge.com/minecraft/mc-mods/more-buckets)
+- [Time in a Bottle](https://www.curseforge.com/minecraft/mc-mods/time-in-a-bottle-forge) <br />
+  ^ (Note: Replaced by the **Temporal Pouch** from [@Gadgets Against Grind](https://www.curseforge.com/minecraft/mc-mods/gag).)
+
+
+**Notable Changes**
+- **Turned off** the **Campfire Particles/Smoke** from **Furnaces** and **other similar blocks**.
+- **Tried to minimize** and **fix structures** being **clumped together** at **world spawn**.
+- **@AE2 Meteorites** can now also **generate** in the **Overworld Mining Dimension**.
+- **Re-enabled** the **@Quark variant chests** in **worldgen** wherever supported.
+- **Tips** on the **Loading Screen(s)** should now be **properly randomized**.
+- **Disabled** the "**You're near a Beehive/nest**" **message** in **chat**.
+- **Reduced** the **generation chances** for **quite a few structures**.
+- **Lowered generation chances** for **@Pneumaticcraft Oil Lakes**.
+- **Added Glowstone "clouds"** to the **Nether Mining Dimension**.
+- **Re-added alternate recipes** for the **@AE2 presses**.
+- **Disabled** the **generation** of **@Ad Astra meteorites**.
+- (**!**) Some **changes** in **mod updates**, as **always**.
+
+
+**Notable Fixes**
+- "**Fixed**" a **worldgen crash** related to **@ChocoCraft** by **removing the mod for now**. <br />
+  ^ (**Note: Mod will be re-added if this gets fixed**.)
+- **Fixed** missing **recipes** for **Iron & Gold wires** with the **Wire Cutters**.
+- **Fixed** some **structures generating ontop** of **each other**. <br />
+  ^ (**Note: If you find any, report it and send the seed of your world & cords of location in discord**.)
+- (**!**) Some **fixes** not **noted** in **mod updates**, as **always**.
+
+
+**Quests**
+- No changes.
+
+
+**Updated**
+- (**!**) All **mods** that **could** be **updated** have been **updated**.
+
+
+**Current Forge Version**
+- 47.2.17
+
+
+**Notes**
+- Expect **breaking updates**, some **issues**, **bugs**, **recipe conflicts** & overall **instability**.
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-7/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.40.0</h1>
 
 **New mods. Many changes, fixes & more!**
