@@ -1,3 +1,41 @@
+<h1>v0.41.1</h1>
+
+**Small hotfix regarding a virus false positive triggered in some Anti-viruses.**
+
+**Please always do a fresh install when updating the pack to avoid issues!** <br />
+**Also remember to always backup your world(s) before updating!**
+
+
+**Notable Fixes**
+- **Fixed** an **issue** that **could** cause **anti-viruses** to **flag** a **jar file** as a "**virus**". <br />
+  ^ (**This was a false positive**.)
+
+
+**Updated**
+- Updated **2** mods.
+
+
+**Current Forge Version**
+- 47.2.17
+
+
+**Notes**
+- Expect **breaking updates**, some **issues**, **bugs**, **recipe conflicts** & overall **instability**.
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-7/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.41.0</h1>
 
 **Reintroduce some mods from LL6, worldgen structure fixes, other changes & more!**
