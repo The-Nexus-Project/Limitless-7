@@ -1,3 +1,111 @@
+<h1>v1.0.0</h1>
+
+**Release version 1.0.0 is here!** <br />
+**Please note that this version could be breaking and new worlds are recommended.** <br />
+
+**You can probably continue playing on old worlds but with caution!** <br />
+**Realistically it should be fine, but here's a warning.** <br />
+**Please read the "Notes" section at the bottom for more info!**
+
+**Please always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Also remember to always backup your world(s) before updating!**
+
+
+**Added**
+- [Ars Additions](https://www.curseforge.com/minecraft/mc-mods/ars-additions)
+- [ChocoCraft](https://www.curseforge.com/minecraft/mc-mods/chococraft) <br />
+  ^ (**Re-added, crashes fixed.**)
+- [Iron Chests](https://www.curseforge.com/minecraft/mc-mods/iron-chests)
+- [Iron Shulker Boxes](https://www.curseforge.com/minecraft/mc-mods/iron-shulker-boxes) <br />
+  ^ (**Simple alternatives for @Sophisticated Storage.**)
+- [Mo Glass](https://www.curseforge.com/minecraft/mc-mods/mo-glass)
+- [Pipe Connector](https://www.curseforge.com/minecraft/mc-mods/pipe-connector)
+- [Productive Trees](https://www.curseforge.com/minecraft/mc-mods/productivetrees)
+- [Traveller's Boots](https://www.curseforge.com/minecraft/mc-mods/travellers-boots)
+- [Updated Engineering](https://www.curseforge.com/minecraft/texture-packs/updated-engineering) <br />
+  ^ (**Resource Pack.**)
+
+
+**Removed**
+- [Biomes O' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty) <br />
+  ^ (**Note: BOP has already been disabled via configs since v0.19.0. Now it's being fully removed**.)
+- [Macaw's Bridges (BOP Addon)](https://www.curseforge.com/minecraft/mc-mods/macaws-bridges-biome-o-plenty)
+- [Macaw's Fences (BOP Addon)](https://www.curseforge.com/minecraft/mc-mods/macaws-fences-biomes-o-plenty)
+- [Macaw's Roofs (BOP Addon)](https://www.curseforge.com/minecraft/mc-mods/macaws-roofs-biomes-o-plenty)
+- [Mob Compack (BOP Addon)](https://www.curseforge.com/minecraft/mc-mods/mob-compack)
+- [Moog's End Structures](https://www.curseforge.com/minecraft/mc-mods/moogs-end-structures)
+- [Moog's Voyager Structures](https://www.curseforge.com/minecraft/mc-mods/moogs-voyager-structures) <br />
+  ^ (**Note: These two @Moog's mods are currently incompatible with latest @Blueprint, will be re-added if fixed**.)
+- [Moyai](https://www.curseforge.com/minecraft/mc-mods/moyai) <br />
+  ^ (**Note: Not needed**.)
+
+
+**Notable Changes**
+- **Added** a **small "note"** to some **loading screens** where the **game might freeze for a bit**. <br />
+  ^ (**Clarifying that the freeze is normal, and you shouldn't try to close the game**.)
+- **Turned off all Campfire Particles/Smoke** emitting from non **@Advanced Chimney blocks**.
+- Any **silk touched spawner** can now be **crafted into a Broken Spawner** from **@EnderIO**.
+- **Broken Spawner** from **@EnderIO** **no longer drops** when **mined**, **instead scrap drops**. <br />
+  ^ (**These two spawner changes above is to workaround a spawner duplication bug**.) <br />
+  ^ (**Temporary solution!**)
+- **New loading screen Tips** provided by **@Aether: Redux**. <br />
+  ^ (**These are purple-ish instead of yellow.**)
+- **Turned off** the **Easter event**.
+- **Many changes** in **mod updates not noted here**.
+
+
+**Notable Fixes**
+- **Fixed fences from @IE** becoming "**diagonal**" **preventing @IE multiblocks** from **forming**.
+- **Fixed** specifically **@Croptopia Cabbage Rolls recipe(s)** having **empty tag issues**.
+- **Fixed quite a few recipes** (not that popular recipes) having **empty tag issues**.
+- **Fixed Oreberries** from **any kind** smelting into **Iron Nuggets** in **some machines**.
+- A **possible deadlock crash** during **world save** has been **fixed**.
+- **Fixed** a **small duplication issue** related to **Nether Wart**.
+- (**!**) Some **fixes** not **noted** in **mod updates**, as **always**.
+
+
+**Quests**
+- **Updated** the **"Winter Warmth" quest description** in the **@Repurposed Structures chapter** to **reflect** that there's **4 Igloos** now and **not 3**.
+- **Fixed "Superdense Energy Cell" quest** in the **@AE2 Chapter** having no **reward**.
+- **Added three new** and **removed two quests** in the **@Ad Astra Chapter**.
+- **Re-added** a **small Mini-Chapter**: **@Traveller's Boots**.
+- Added **five** new **quests** to the **@Aether chapter**.
+- **Grammar fixes** in **various chapters**.
+
+
+**Updated**
+- (**!**) All **mods** that **could** be **updated** have been **updated**.
+
+
+**Current Forge Version**
+- 47.2.17
+
+
+**Notes**
+- **Biomes** from **@The Aether Redux** have been **changed significantly internally** and this **might impact old worlds**, such as **crashes** or other **similar issues**.
+- **Various blocks** from **@Ad Astra** will need to be **placed again** if playing on **old worlds**. **Doors**, **Launch Pads**, **Cables**, **fluid pipes** etc. <br />
+  ^ (**Energy, fluids & items in machines will be lost. Glacian signs aeronos and strophar chests are removed.**)
+- **@Biomes O' Plenty** is now **completely removed**, any **block placed** or **biomes generated** will be **removed**.  <br />
+  ^ (**Note that since all of the biomes from @BOP were disabled in v0.19.0, this will not impact your world unless you re-enabled them yourself!**)
+- **Meadow biomes** from **@[Let's Do] Meadow** have had their **IDs changed**, this **could cause log spam** in **old worlds** and **other issues**.
+- **@The Outer End** have **received some updates** that **can potentially cause worldgen issues**.
+- **Beehives** made from **@Biomes O' Plenty wood** will be **removed** this **update**.
+- **Note that** there **might be more "issues" like these**, but **above** are the **major ones**.
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-7/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.41.1</h1>
 
 **Small hotfix regarding a virus false positive triggered in some Anti-viruses.**
