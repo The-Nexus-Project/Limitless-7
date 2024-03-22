@@ -50,7 +50,6 @@
   ^ (**Temporary solution!**)
 - **New loading screen Tips** provided by **@Aether: Redux**. <br />
   ^ (**These are purple-ish instead of yellow.**)
-- **Turned off** the **Easter event**.
 - **Many changes** in **mod updates not noted here**.
 
 
