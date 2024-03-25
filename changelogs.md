@@ -1,3 +1,62 @@
+<h1>v1.1.0</h1>
+
+**Smaller update with fixes that arose with the last update.**
+
+**Please always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Also remember to always backup your world(s) before updating!**
+
+
+**Added**
+- No mods added.
+
+
+**Removed**
+- No mods removed.
+
+
+**Notable Changes**
+- **Adjusted** the **time** for **@Login Protection** to **protect for longer**.
+- **Activated Waystones** will now **show up** on the **@Journey Map**.
+- **Performance improvements** for **@Journey Map**.
+- **Many changes** in **mod updates not noted here**.
+
+
+**Notable Fixes**
+- A **crash** related to **@FTB Chunks "long range player tracking"** is now **fixed**.
+- A **memory usage issue** which was **introduced in latest update** is now **fixed**.
+- (**!**) Some **fixes** not **noted** in **mod updates**, as **always**.
+
+
+**Quests**
+- No changes.
+
+
+**Updated**
+- (**!**) All **mods** that **could** be **updated** have been **updated**.
+
+
+**Current Forge Version**
+- 47.2.17
+
+
+**Notes**
+- This **update** will **allow you to play** with **minimum 8 GB RAM again**, **but** that is **borderline too low** for this **pack** and **isn't recommended**! <br />
+  ^ (**Only as a last resort for low spec PCs**.)
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-7/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.0.0</h1>
 
 **Release version 1.0.0 is here!** <br />
