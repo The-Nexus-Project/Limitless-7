@@ -18,7 +18,7 @@
 - **Adjusted** the **time** for **@Login Protection** to **protect for longer**.
 - **Activated Waystones** will now **show up** on the **@Journey Map**.
 - **Performance improvements** for **@Journey Map**.
-- **Many changes** in **mod updates not noted here**.
+- **Changes** in **mod updates not noted here**.
 
 
 **Notable Fixes**
