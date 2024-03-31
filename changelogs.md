@@ -1,3 +1,70 @@
+<h1>v1.2.0</h1>
+
+**New mods, some changes & another round of fixes!**
+
+**Please always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Also remember to always backup your world(s) before updating!**
+
+
+**Added**
+- [Botany Pots Tiers](https://www.curseforge.com/minecraft/mc-mods/botany-pots-tiers)
+- [Chisel Chipped Integration](https://www.curseforge.com/minecraft/mc-mods/chisel-chipped-integration)
+- [Configured](https://www.curseforge.com/minecraft/mc-mods/configured)
+- [ExtendedAE](https://www.curseforge.com/minecraft/mc-mods/)
+- [Reborn Storage](https://www.curseforge.com/minecraft/mc-mods/rebornstorage)
+
+
+**Removed**
+- [Better Jukeboxes](https://www.curseforge.com/minecraft/mc-mods/better-jukeboxes) <br />
+  ^ (**Note: Merged into the mod**: [@Amendments](https://www.curseforge.com/minecraft/mc-mods/amendments).)
+- [Forge Config Screens](https://www.curseforge.com/minecraft/mc-mods/config-menus-forge) <br />
+  ^ (**Note: Replaced by the mod**: [@Configured](https://www.curseforge.com/minecraft/mc-mods/configured).)
+
+
+**Notable Changes**
+- **Reduced** the **file size** for **@KubeJS scripts** and **also** made them **more compact**. <br />
+  ^ (**Note: This will speed up loading times a little bit**.)
+- **Added Ender Pearl Dust recipe** to the **@Mekanism Crusher**.
+- **Disabled keybind @SFM Container Inspector** by **default**.
+- (**!**) **Changes** in **mod updates not noted here**.
+
+
+**Notable Fixes**
+- **Fixed** some **issues** regarding **@Mystical Agriculture seeds support** in **@Thermal machines**.
+- A **world login issue**: "**index 26 out of bounds for length 5**" is now **fixed**. <br />
+  ^ (**Thanks @anon & @Gayan7 for the help finding the cause of the issue**.)
+- The **Ancient Compass** from **@UtilitiX** causing **TPS drops** is now **fixed**.
+- **Fixed** some **heavy log spam** caused by **@Produtive Trees**.
+- **Fixed** a **recipe conflict** on **output** for **Charcoal**.
+- Some **"Empty Tag" issues** have been **fixed**.
+- (**!**) Some **fixes** not **noted** in **mod updates**, as **always**.
+
+
+**Quests**
+- **Added three new quests** to the **@AE2 Chapter**.
+
+
+**Updated**
+- (**!**) All **mods** that **could** be **updated** have been **updated**.
+
+
+**Current Forge Version**
+- 47.2.17
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-7/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.1.0</h1>
 
 **Smaller update with fixes that arose with the last update.**
