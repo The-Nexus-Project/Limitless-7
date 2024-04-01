@@ -22,7 +22,7 @@
 
 
 **Notable Changes**
-- **Reduced** the **file size** for **@KubeJS scripts** and **also** made them **more compact**. <br />
+- **Reduced** the **file size** for **@KubeJS scripts** and **cleaned them up a bit**. <br />
   ^ (**Note: This will speed up loading times a little bit**.)
 - **Added Ender Pearl Dust recipe** to the **@Mekanism Crusher**.
 - **Disabled keybind @SFM Container Inspector** by **default**.
