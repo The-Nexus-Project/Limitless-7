@@ -1,3 +1,76 @@
+<h1>v1.3.0</h1>
+
+**Stargate Journey, Create: New Age, Botanical Machinery, many changes + fixes & more!**
+
+**NOTE: Any placed blocks from @Macaw's Bridges will need a block update-** <br />
+**on affected bridges/stairs to correct themselves this update.** <br />
+**How? Place any block above/next to the affected bridge/stairs, this will trigger an update for neighboring blocks.**
+
+**Please always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Also remember to always backup your world(s) before updating!**
+
+
+**Added**
+- [AE2 Insert Export Card](https://www.curseforge.com/minecraft/mc-mods/ae2-insert-export-card)
+- [Botanical Machinery](https://www.curseforge.com/minecraft/mc-mods/botanical-machinery)
+- [Create: New Age](https://www.curseforge.com/minecraft/mc-mods/create-new-age)
+- [Energy Meter](https://www.curseforge.com/minecraft/mc-mods/energymeter)
+- [Stargate Journey](https://www.curseforge.com/minecraft/mc-mods/sgjourney)
+
+
+**Removed**
+- No mods removed.
+
+
+**Notable Changes**
+- **Disabled** the **chance** of **Piglin Brutes** spawning with the item "**Buckler**" to **prevent crashes**. <br />
+  ^ (**Will be re-enabled when crashing issue is fixed.**)
+- **Added Thorium Ore & Magnetite** from **@Create: New Age** to the **Mining Dimension (Overworld)**.
+- **Raised** the **amount** of **requests** the **@ME Requester** can **hold** from **5** to **10**.
+- **Added** the **@Productive Trees Guide Book** to the **@Eccentric Tome** recipe.
+- **Added @Lootr Chests/Barrels** to the **@FTB Chunks interact whitelist**.
+- **Reduced spawnrates(weight)** for **Lava Squid** & **Mother Lava Squid**.
+- **Added alternate recipes** to get **Crushed End Stone (dust)**.
+- Some **memory usage improvements** (from **@Macaw's Bridges**).
+- **Added** a few **new tips** to the **loading screen(s)**.
+- (**!**) **Changes** in **mod updates not noted here**.
+
+
+**Notable Fixes**
+- **Fixed** a few **empty tag issues** in the **@Occultism Spirit Crusher**.
+- **Fixed** an **issue** with **@Bountiful** not being **visible in JEI**.
+- **Fixed Ivy "block"** not being **harvestable** with **shears**.
+- A **crash related** to the **Piglin Brute** is now "**fixed**".
+- **Fixed @Redirector spamming** the **logs** & **console**.
+- (**!**) Some **fixes** not **noted** in **mod updates**, as **always**.
+
+
+**Quests**
+- **Removed** the **@Iron Jetpacks chapter** since its **currently only half-functional** due to **issues**.
+- **Added** a **new quest** to the **Adventure chapter** called: "**Towards the skies!**".
+
+
+**Updated**
+- (**!**) All **mods** that **could** be **updated** have been **updated**.
+
+
+**Current Forge Version**
+- 47.2.17
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-7/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.2.0</h1>
 
 **New mods, some changes & another round of fixes!**
