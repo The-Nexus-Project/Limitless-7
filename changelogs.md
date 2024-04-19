@@ -1,3 +1,68 @@
+<h1>v1.4.0</h1>
+
+**New quests, new mods, some changes & fixes!**
+
+**Please always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Also remember to always backup your world(s) before updating!**
+
+
+**Added**
+- [Ars Instrumentum](https://www.curseforge.com/minecraft/mc-mods/ars-instrumentum)
+- [Cardiac](https://www.curseforge.com/minecraft/mc-mods/cardiac)
+- [Moog's End Structures](https://www.curseforge.com/minecraft/mc-mods/moogs-end-structures)
+- [Relics: Alex's Caves Compat](https://www.curseforge.com/minecraft/mc-mods/rac-compat)
+
+
+**Removed**
+- No mods removed.
+
+
+**Notable Changes**
+- The **Main Menu backgrounds** are now **randomized**, no longer **same order every time**.
+- **You can** now **gain back** some **health** from "**life orbs**" when **killing mobs**. <br />
+  ^ (**Think regular experience orb, but instead gain some health**.) <br />
+  ^ (**Life orbs only stick around for 10 seconds. Then despawns**.)
+- **Hollow Logs** can now be **crafted** into **2x Planks**.
+- **Added more loading screen tips**.
+- (**!**) **Changes** in **mod updates not noted here**.
+
+
+**Notable Fixes**
+- **Fixed items/blocks** from **@Cobble For Days**, **@Trash Cans** & **@Thermal missing** in **JEI**.
+- A **rare modloading error** on **server startup** is now **fixed**. <br />
+  ^ (**This was related to @FTB XMod Compat**.)
+- (**!**) Some **fixes** not **noted** in **mod updates**, as **always**.
+
+
+**Quests**
+- **Added 4 new quests** to the **@Relics chapter**.
+- **Added** a **new chapter**: **@Blue Skies**.
+- **Added** a **new chapter**: **@Silent Gear**.
+- **Moved** all **chapters** into **groups**.
+- Small **fixes**.
+
+
+**Updated**
+- (**!**) All **mods** that **could** be **updated** have been **updated**.
+
+
+**Current Forge Version**
+- 47.2.17
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-7/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.3.0</h1>
 
 **Stargate Journey, Create: New Age, Botanical Machinery, many changes + fixes & more!**
