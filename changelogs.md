@@ -1,3 +1,80 @@
+<h1>v1.5.0</h1>
+
+**Three new mods, two removed. Lots of changes & fixes!**
+
+**Please always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Also remember to always backup your world(s) before updating!**
+
+
+**Added**
+- [JER Integration](https://www.curseforge.com/minecraft/mc-mods/jer-integration)
+- [More Totems Of Undying](https://www.curseforge.com/minecraft/mc-mods/more-totems-of-undying)
+- [Translocators](https://www.curseforge.com/minecraft/mc-mods/translocators-1-8)
+
+
+**Removed**
+- [More Dragon Eggs](https://www.curseforge.com/minecraft/mc-mods/more-dragon-eggs) <br />
+  ^ (**Reason: This exists in YUNG's Better End Island now.**)
+- [TexTrue's Embeddium Options](https://www.curseforge.com/minecraft/mc-mods/textrues-embeddium-options) <br />
+  ^ (**Reason: It's now included in Embeddium, but improved**.)
+
+
+**Notable Changes**
+- **Piglins** are no longer **hostile** to **players wearing** a **@Artifacts Golden Hook**, **Cross Necklace**, **Antidote Vessel** or **Universal Attractor**.
+- **Disabled** the **"Experience Boost" enchantment** from **@Cyclic** due to it being a **duplicate enchantment**.
+- **Disabled** the **"Step Height" enchantment** from **@Cyclic** since it's **currently not working anyway**. <br />
+  ^ (**Avoids confusion. It will be re-enabled if it gets fixed in the future.**)
+- **Some mobs** now have a **very small chance** to **spawn** with an **Artifact** from **@Artifacts**.
+- The **Curios Menu** is now **rendered** in a **8x5 box** instead of just **1 scrollable bar**.
+- The **max level** for the **enchantment** **"Vitality"** is now **3** as **originally intended**.
+- **Added support** for more **@MA Seeds** in the **@Thermal Phytogenic Insolator**.
+- **Buffed** the **@Tiered Botany Pots Speeds** by **2** for **Elite**, **Ultra** & **Mega**.
+- **You will** now get a **warning** if you **don't have enough RAM allocated**. <br />
+  ^ (**Note: This warning can be permanently disabled via a button.**)
+- **Added recipes** for turning almost **all Wooden Slabs** back to **Planks**.
+- **Fixed items/blocks** from **@Item Collectors missing** in **JEI**.
+- **Added** new **tips** to the **pack loading screen(s)**.
+- (**!**) **Changes** in **mod updates not noted here**.
+
+
+**Notable Fixes**
+- **Fixed** the **@Immersive Weathering** feature "**Block Growth**" being **on** despite being **disabled** in **configs**.
+- **Fixed three invalid ores dropping** from the **Boon of the Earth enchantment loot table**.
+- **Fixed** an **annoying issue** where the **world/chunks** would be **rendered invisible**.
+- **Fixed** the **@Ad Astra Compressor** outputting the **wrong type** of **Steel Plate**.
+- **Fixed** a **small recipe issue** with **turning some Slabs** back to **Planks**.
+- **Fixed "Step Assist"** being **stacked** upon **rejoining** a **world**.
+- **Fixed a few recipe conflicts**.
+- (**!**) Some **fixes** not **noted** in **mod updates**, as **always**.
+
+
+**Quests**
+- Added **7 new quests** to the **@Artifacts chapter**.
+- Added **8 new quests** to the **@Botania chapter**.
+- **Some minor fixes**.
+
+
+**Updated**
+- (**!**) All **mods** that **could** be **updated** have been **updated**.
+
+
+**Current Forge Version**
+- 47.2.17
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-7/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.4.0</h1>
 
 **New quests, new mods, some changes & fixes!**
