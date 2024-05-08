@@ -1,3 +1,65 @@
+<h1>v1.6.0</h1>
+
+**New Deco. Fixes, changes & more!**
+
+**Please always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Also remember to always backup your world(s) before updating!**
+
+
+**Added**
+- [Dimensional Sync Fixes](https://www.curseforge.com/minecraft/mc-mods/dimensional-sync-fixes)
+- [The New Shutters](https://www.curseforge.com/minecraft/mc-mods/lauchs-shutters)
+
+
+**Removed**
+- [Fix Experience Bug](https://www.curseforge.com/minecraft/mc-mods/fix-experience-bug) <br />
+  ^ (**Replaced by: [Dimensional Sync Fixes](https://www.curseforge.com/minecraft/mc-mods/dimensional-sync-fixes)**.)
+
+
+**Notable Changes**
+- **Moved** the **@Iron Jetpacks, @Mahou X/X & @Create Jetpack HUD** to **not overlap** with the **potion effect icons**.
+- **Removed** some **invalid/debug items** from the **Loot Bundle loot table**. **Annoying**.
+- **Added @ElementalCraft sources** to **all** of the **available Mining Dimensions**. <br />
+  ^ (**Note: Source Altar is added aswell, but only to the Overworld MD**.)
+- **Updated** the **"Shaders"** link **in-game** to the **correct @Oculus version**.
+- **Moved** the **@Ad Astra Oxygen/Energy HUD** to **prevent** some **overlap**.
+- **Made** the **Potion Effect icons** on the **in-game HUD smaller**.
+- **Added** new **tips** to the **pack loading screen(s)**.
+- (**!**) **Changes** in **mod updates not noted here**.
+
+
+**Notable Fixes**
+- **Potion Effect icons disappearing** when **switching dimensions** is now **fixed**.
+- **Fixed Potion Effect icons overlapping** with **new @Curios GUI**.
+- A **memory usage regression issue** has been **fixed**.
+- (**!**) Some **fixes** not **noted** in **mod updates**, as **always**.
+
+
+**Quests**
+- No changes.
+
+
+**Updated**
+- (**!**) All **mods** that **could** be **updated** have been **updated**.
+
+
+**Current Forge Version**
+- 47.2.17
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-7/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.5.0</h1>
 
 **Three new mods, two removed. Lots of changes & fixes!**
