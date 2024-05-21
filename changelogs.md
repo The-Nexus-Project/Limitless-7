@@ -1,3 +1,65 @@
+<h1>v1.7.0</h1>
+
+**Smaller update with some fixes & changes!**
+
+**Please always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Also remember to always backup your world(s) before updating!**
+
+
+**Added**
+- [Shut Up GL Error](https://www.curseforge.com/minecraft/mc-mods/shut-up-gl-error)
+
+
+**Removed**
+- No mods removed.
+
+
+**Notable Changes**
+- **Added** a **recipe** to **convert Essence Berries** to **Liquid EXP** using **@Create Enchantment Industry "disenchanting"**.
+- **Lowered** the **generation chances** for the **@Graveyard & @Cataclysm structure(s)**.
+- **Sag Milling ingots** and **storage blocks** no longer yields **bonuses**.
+- **Removed** the **tag "is_overworld"** from the **@Alex's Caves biomes**. <br />
+  ^ (**This should prevent SOME unwanted structures & features to not generate in the biomes, not all**.)
+- **Removed** a few **invalid loading screen tips**.
+- (**!**) **Changes** in **mod updates not noted here**.
+
+
+**Notable Fixes**
+- **Potion Effect icons** having a **"glitched" texture** on the **timer etc** is now **fixed**.
+- Some **issues** related to **@Universal Sawmill** are now **fixed**. <br />
+  ^ (**Mod can now be updated after being 15 versions behind, bringing fixes with it**.)
+- **Excessive lag spikes** caused by some **GPUs** is now **fixed**.
+- **Fixed** the **logs** being **spammed** with **GL Errors**.
+- **Some chunks** not **unloading** is now **fixed**.
+- **Fixed a few recipe conflicts**.
+- (**!**) Some **fixes** not **noted** in **mod updates**, as **always**.
+
+
+**Quests**
+- No changes.
+
+
+**Updated**
+- (**!**) All **mods** that **could** be **updated** have been **updated**.
+
+
+**Current Forge Version**
+- 47.2.17
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-7/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.6.0</h1>
 
 **New Deco. Fixes, changes & more!**
