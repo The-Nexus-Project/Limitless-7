@@ -1,3 +1,87 @@
+<h1>v1.8.0</h1>
+
+**Bigger Update! New chapter with quests. New mods, changes, fixes & more!**
+
+**Note: Shelves, counters, drawers, and cupboards from @Handcrafted have had their IDs changed!** <br />
+**Because of this, they will be deleted from the world and must be placed again**. <br />
+**Make sure to remove inventory contents before updating!**
+
+**Please always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Also remember to always backup your world(s) before updating!**
+
+
+**Added**
+- [[Let's Do] Bakery](https://www.curseforge.com/minecraft/mc-mods/lets-do-bakery)
+- [[Let's Do] Brewery](https://www.curseforge.com/minecraft/mc-mods/lets-do-brewery)
+- [Convenient Curios Container](https://www.curseforge.com/minecraft/mc-mods/convenient-curios-container)
+- [Ksyxis](https://www.curseforge.com/minecraft/mc-mods/ksyxis)
+
+
+**Removed**
+- No mods removed.
+
+
+**Notable Changes**
+- **Added missing @Botany Pots Sapling & Seed recipes** for **the following mods**: **@Caupona**, **@Occultism**, **@Sushi Go Crafting**, **@Tropicraft**, **@[Let's Do] Meadow**, **@[Let's Do] Vinery** and **@Outer End**.
+- **Sped up** the "**world loading**" by **not loading** the **initial 21x21 (441) spawn chunks every time** you **load a world**. <br />
+  ^ (**Example: New world before: 2m 35s~. New world now: 1m 52s~**.) <br />
+  ^ (**Example 2: Existing world before: 1m 40s~. Existing world now: 1m 28s~**.) <br />
+  ^ (**NOTE: Results may vary from PC to PC due to pc specs**.)
+- **Saplings** from **@Productive Trees** can **no longer be obtained** through **@Blue Skies Alchemy**.
+- **Enabled @Quark's Improved Tooltips**: "**Upgrade Status**" & "**Better Damage/Armor Numbers**".
+- **Disabled** the **/sethome**, **/home**, **/back**, **/spawn** & **/warp commands etc** by **default**. <br />
+  ^ (**Note: Enchanted /back Grave key is still enabled**!) <br />
+  ^ (**Added a new rank called "casual" for those that still want them enabled**.) <br />
+  ^ (**Activate rank with: */ftbranks add Name casual* then */ftbranks reload***!)
+- **Added @SilentGear Salvager recipe support** for the **@SimplySwords mod**.
+- **Unnerfed** the **@Mystical Agriculture crafting** of **Essences, etc**. <br />
+  ^ (**Note: This means back to just 4x essences to upgrade**.)
+- **Added potential slime spawning** to the **@JAVD Void Dimension**. <br />
+  ^ (**Example: Slimes now spawn on Dreadful dirt**.)
+- **Mob Tropies** now have a **slightly higher chance** to **drop**.
+- **Added @Powah Energizing recipes** for **Storage Blocks**.
+- **Adjusted** the **default base block** for **mob trophies**.
+- (**!**) **Changes** in **mod updates not noted here**.
+
+
+**Notable Fixes**
+- **Fixed quests** taking **a long time** to **complete** when the **required items** are in **inventory**.
+- **Fixed** a few **typos** in the **Loading Screen tips**.
+- A **memory leak issue** has been **fixed**. <br />
+  ^ (**Note: If more are found they will be ofcourse be fixed**.)
+- **Fixed various recipe conflicts**.
+- (**!**) Some **fixes** not **noted** in **mod updates**, as **always**.
+
+
+**Quests**
+- **Reorganized** the **@Mystical Agriculture chapter a bit** & **added 4 new quests**.
+- **Added** a **Waystone** to the **Welcome Kit quest**.
+- **Added** a **new chapter**: **@Productive Trees**. <br />
+  ^ (**This chapter is more for the completionist rather than for the rewards**.) <br />
+  ^ (**Made by: @LobsterJonn, edited by @Gbergz**.)
+
+
+**Updated**
+- (**!**) All **mods** that **could** be **updated** have been **updated**.
+
+
+**Current Forge Version**
+- 47.2.17
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-7/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.7.0</h1>
 
 **Smaller update with some fixes & changes!**
