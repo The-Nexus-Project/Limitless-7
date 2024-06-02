@@ -32,7 +32,7 @@
 - **Disabled** the **/sethome**, **/home**, **/back**, **/spawn** & **/warp commands etc** by **default**. <br />
   ^ (**Note: Enchanted /back Grave key is still enabled**!) <br />
   ^ (**Added a new rank called "casual" for those that still want them enabled**.) <br />
-  ^ (**Activate rank with: */ftbranks add Name casual**)
+  ^ (**Activate rank with: */ftbranks add Name casual***)
 - **Added @SilentGear Salvager recipe support** for the **@SimplySwords mod**.
 - **Unnerfed** the **@Mystical Agriculture crafting** of **Essences, etc**. <br />
   ^ (**Note: This means back to just 4x essences to upgrade**.)
