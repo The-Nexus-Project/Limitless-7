@@ -1,3 +1,62 @@
+<h1>v1.9.0</h1>
+
+**Some changes, performance improvements, fixes & more!**
+
+**Please always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Also remember to always backup your world(s) before updating!**
+
+
+**Added**
+- [BadOptimizations](https://www.curseforge.com/minecraft/mc-mods/badoptimizations)
+
+
+**Removed**
+- No mods removed.
+
+
+**Notable Changes**
+- **Blacklisted** a few **invalid items** from the **Loot Bundle loot table**.
+- **Added missing Drops** for the **Azure Buds recipe** in **@Botany Pots**.
+- **Added various mod compats** with the **@Sky Villages structure**. <br />
+  ^ (**Specifically: @[Let's Do] Brewery, @[Let's Do] Vinery, @[Let's Do]Bakery, @Farmer's Delight, @The Graveyard, @Supplementaries & @Waystones datapacks**.)
+- **Improved client performance a bit**.
+- (**!**) **Changes** in **mod updates not noted here**.
+
+
+**Notable Fixes**
+- **@Iron Jetpacks** displaying **FE value twice** and **not displaying** the **throttle value** is now **fixed**.
+- **Fixed** a **small recipe exploit**.
+- (**!**) Some **fixes** not **noted** in **mod updates**, as **always**.
+
+
+**Quests**
+- **Reorganized** the **@Mekanism chapter** and **fixed** some **dependency stuff**. <br />
+  ^ (**Note: Somes quest in this chapter might reset due to this. Apologies**.)
+- **Updated** some **quest descriptions**.
+
+
+**Updated**
+- **Forge** from version **47.2.17** to **47.3.1**
+- (**!**) All **mods** that **could** be **updated** have been **updated**.
+
+
+**Current Forge Version**
+- 47.3.1
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-7/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.8.0</h1>
 
 **Bigger Update! New chapter with quests. New mods, changes, fixes & more!**
