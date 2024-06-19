@@ -1,3 +1,56 @@
+<h1>v1.10.0</h1>
+
+**Smaller update with some QoL changes & fixes.**
+
+**Please always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Also remember to always backup your world(s) before updating!**
+
+
+**Added**
+- [Inventory Essentials](https://www.curseforge.com/minecraft/mc-mods/inventory-essentials)
+
+
+**Removed**
+- No mods removed.
+
+
+**Notable Changes**
+- **You can** now **Control-click** an **item** to **only quick-move** a **single item** instead of the **entire stack**.
+- **You can** now **Shift-control click** an **item** to **quick-move** **all stacks** of that **item type**.
+- **Simplified** a few **loading screen tips**.
+- (**!**) **Changes** in **mod updates not noted here**.
+
+
+**Notable Fixes**
+- **Fixed more recipe conflicts**.
+- (**!**) Some **fixes** not **noted** in **mod updates**, as **always**.
+
+
+**Quests**
+- **Updated** some **quest descriptions**.
+
+
+**Updated**
+- (**!**) All **mods** that **could** be **updated** have been **updated**.
+
+
+**Current Forge Version**
+- 47.3.1
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-7/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.9.0</h1>
 
 **Some changes, performance improvements, fixes & more!**
