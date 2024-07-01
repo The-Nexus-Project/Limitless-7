@@ -1,3 +1,64 @@
+<h1>v1.11.0</h1>
+
+**Fixes, fixes & some changes!**
+
+**Please always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Also remember to always backup your world(s) before updating!**
+
+
+**Added**
+- No mods added.
+
+
+**Removed**
+- No mods removed.
+
+
+**Notable Changes**
+- A small sound will now play each time you use a tool under 10 durability to remind you that it's about to break.
+- Disabled the "Tools dont break" config option from @Pickle Tweaks to prevent some issues. <br />
+  ^ (This means tools will now permanently break when they reach 0 durability like in vanilla.)
+- @EnderIO now has @Mekanism conduits & @CC: Tweaked redstone integration.
+- The @EnderIO Conduits now has upgrades & filters.
+- (**!**) **Changes** in **mod updates not noted here**.
+
+
+**Notable Fixes**
+- A crash related to @GeckoLib & @Iron's Spells 'n Spellbooks has hopefully been fixed.
+- Fixed Arcane Crystal Ore having no forge:ores/ tags*.
+- Fixed even more recipe conflicts.
+- (**!**) Some **fixes** not **noted** in **mod updates**, as **always**.
+
+
+**Quests**
+- Fixed an invalid quest in the @Apotheosis chapter.
+- Fixed "We Can Rebuild It" quest not triggering.
+- Fixed some XP rewards being incorrect values.
+- Added 1 new quest to the @EnderIO chapter.
+- Other minor changes.
+
+
+**Updated**
+- (**!**) All **mods** that **could** be **updated** have been **updated**.
+
+
+**Current Forge Version**
+- 47.3.1
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-7/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.10.0</h1>
 
 **Smaller update with some QoL changes & fixes.**
