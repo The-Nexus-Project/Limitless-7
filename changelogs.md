@@ -1,3 +1,58 @@
+<h1>v1.14.0</h1>
+
+**1 mod addition, mod updates, fixes & a very small change!**
+
+**Please always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Also remember to always backup your world(s) before updating!**
+
+
+**Added**
+- [MrCrayfish's Furniture Mod: Refurbished](https://www.curseforge.com/minecraft/mc-mods/refurbished-furniture)
+
+
+**Removed**
+- [Tiny Item Animations](https://www.curseforge.com/minecraft/mc-mods/tiny-item-animations) <br />
+  ^ (**Mod removed from CurseForge**.)
+
+
+**Notable Changes**
+- **You can now no longer fully break a tool by excavating**. <br />
+  ^ (**Excavate will stop once the tool reaches 1 durability**.)
+- **Modified the Loot Bundle & Fragment textures**.
+- (**!**) **Changes** in **mod updates not noted here**.
+
+
+**Notable Fixes**
+- **Fixed Hand Bell being uncraftable**.
+- **Fixed multiple empty tag issues**.
+- (**!**) Some **fixes** not **noted** in **mod updates**, as **always**.
+
+
+**Quests**
+- **Minor fixes**.
+
+
+**Updated**
+- (**!**) All **mods** that **could** be **updated** have been **updated**.
+
+
+**Current Forge Version**
+- 47.3.1
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-7/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.13.0</h1>
 
 **Mod updates. Fixes included in those!**
