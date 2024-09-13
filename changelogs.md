@@ -1,3 +1,42 @@
+<h1>v1.15.0</h1>
+
+**Smaller update with mod updates. Changes & fixes included.**
+
+**Please always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Also remember to always backup your world(s) before updating!**
+
+
+**Notable Changes**
+- Made ender pearls from @Enderman Overhaul able to craft Ender Eye.
+- (!) Changes in mod updates not noted here.
+
+
+**Notable Fixes**
+- Hopefully fixed an issue with NBT Tags being too long causing servers not to boot.
+- (!) Quite a few fixes within mod updates.
+
+
+**Updated**
+- (!) All mods that could be updated have been updated.
+
+
+**Current Forge Version**
+- 47.3.1
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-7/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.14.0</h1>
 
 **1 mod addition, mod updates, fixes & a very small change!**
