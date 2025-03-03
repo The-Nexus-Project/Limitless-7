@@ -1,3 +1,53 @@
+<h1>v1.19.0</h1>
+
+**One new mod & mod updates!** <br />
+**Note: [@Tinker's Construct](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct) is scheduled to be added once it is stable enough for modpack use.**
+
+**Please always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Also remember to always backup your world(s) before updating!**
+
+
+**Added**
+- [FTB Chunks - Modded Support](https://www.curseforge.com/minecraft/mc-mods/ftb-chunks-recoloured)
+
+
+**Notable Changes**
+- The @FTB Chunks fullscreen map now has color-support for most modded biomes.
+- (!) Changes in mod updates not noted here, as always.
+
+
+**Notable Fixes**
+- Fixed a loading screen tip being invalid. It's updated and corrected.
+- The server thread hanging upon stopping is now fixed.
+- (!) Quite a few fixes with mod updates, as always.
+
+
+**Quests**
+- No changes.
+
+
+**Updated**
+- (!) All mods that could be updated have been updated.
+- Here's a full list of mods updated: [changelog](https://gist.github.com/Gbergz/7d694d453a71750becfe60dc264d78f2).
+
+
+**Current Forge Version**
+- 47.3.1
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-7/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.18.0</h1>
 
 **Mod updates!**
