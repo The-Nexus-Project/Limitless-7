@@ -1,3 +1,98 @@
+<h1>v1.20.0</h1>
+
+> ### **Big update!**
+> #### **NOTE! Half breaking update due to Create v6.X changes! (Removed mods.)** <br /> 
+### **Tinkers Construct + Addons, Draconic Evolution, EvilCraft, changes, fixes & more!** <br />
+
+**Always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Please: Remember to always backup your world(s) before updating!**
+
+
+### **Added**
+- [AdvancedAE](https://www.curseforge.com/minecraft/mc-mods/advancedae)
+- [AgriCraft](https://www.curseforge.com/minecraft/mc-mods/agricraft)
+- [Crash Assistant](https://www.curseforge.com/minecraft/mc-mods/crash-assistant)
+- [Draconic Additions](https://www.curseforge.com/minecraft/mc-mods/draconicadditions)
+- [Draconic Evolution](https://www.curseforge.com/minecraft/mc-mods/draconic-evolution)
+- [EvilCraft](https://www.curseforge.com/minecraft/mc-mods/evilcraft)
+- [Forestry: Community Edition](https://www.curseforge.com/minecraft/mc-mods/forestry-community-edition)
+- [Memory Leak Fix](https://www.curseforge.com/minecraft/mc-mods/alltheleaks)
+- [Roots Classic](https://www.curseforge.com/minecraft/mc-mods/roots-classic)
+- [Save Loot Tables](https://www.curseforge.com/minecraft/mc-mods/save-loot-tables)
+- [Tinkers Construct](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct)
+- [Tinkers Delight](https://www.curseforge.com/minecraft/mc-mods/tinker-delight)
+- [Tinkers Integrations and Tweaks](https://www.curseforge.com/minecraft/mc-mods/tcintegrations)
+- [Tinkers Jewelry](https://www.curseforge.com/minecraft/mc-mods/tinkers-jewelry)
+- [Tinkers Leveling Addon](https://www.curseforge.com/minecraft/mc-mods/tinkers-levelling-addon)
+- [Tinkers' JSON Things](https://www.curseforge.com/minecraft/mc-mods/tinkers-things-json)
+- [Tinkers' Katanas](https://www.curseforge.com/minecraft/mc-mods/tinkers-katanas)
+- [11 Integrated Loot Mods](https://gist.github.com/Gbergz/f0f4169b4c000a0d9741128e709df595)
+
+
+### **Removed**
+- [Create Editions](https://www.curseforge.com/minecraft/mc-mods/create-editions) <br />
+  (Reason: Features in this mod are now in @Create by default.)
+- [CC:C Bridge](https://www.curseforge.com/minecraft/mc-mods/cccbridge)
+- [Chisels & Bits](https://www.curseforge.com/minecraft/mc-mods/chisels-bits)
+- [Create Jetpack](https://www.curseforge.com/minecraft/mc-mods/create-jetpack)
+- [Little Contraptions](https://www.curseforge.com/minecraft/mc-mods/little-contraptions)
+- [Create: Steam 'n' Rails](https://www.curseforge.com/minecraft/mc-mods/create-steam-n-rails) <br />
+  (Reason: The mods above are currently incompatible with latest @Create v6.x.) <br />
+  (They will be re-added if the compatibility issues are fixed!) <br />
+  (Apologies if you're affected by these removals, but it's needed.)
+
+
+### **Notable Changes**
+- If the modpack crashes a GUI will now pop up immediately showing all affected game/launcher logs, crash reports, etc. <br />
+  (This Provides one-click solution to upload & copy them.)
+- Loot tables will now no longer be completely discarded if there is an invalid entry (missing items, etc).
+- Added new ores from @Tinkers, @Draconic & @EvilCraft to respective Mining Dimension.
+- Enabled the new models for Creeper & Enderman from their Overhaul mods.
+- Most structures will now generate further apart from each other.
+- Added additional guide books to the @Eccentric Tome recipe.
+- Improved the Loot Table loot found in various structures.
+- The Trash Slot is now visible in any @Sophisticated GUI.
+- Updated a few loading screen tips.
+- Some memory usage improvements.
+- (!) Changes in mod updates not noted here, as always.
+
+
+### **Notable Fixes**
+- Plus too many fixes in various mods to list exact fixes here.
+- TLDR; Lots of fixes.
+
+
+### **Quests**
+- Changed progression mode for quests to "FLEXIBLE". <br />
+  (This means that you will complete the quest instantly after you complete the prerequisites.) <br />
+  (A gray checkmark will be displayed on the locked quest to indicate this!)
+- Added a new chapter: @Tinkers Construct.
+- Some fixes & adjusted to some text.
+
+
+### **Updated**
+- (!) All mods that could be updated have been updated.
+- Updated Forge from version 47.3.1 to 47.4.2.
+- Here's a full list of mods updated: [click me](https://gist.github.com/Gbergz/69e64660f37ad5ce9862e201309e08e9).
+
+
+### **Current Forge Version**
+- 47.4.2
+
+
+### **Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-7/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz?r=GitHub)
+
+---------------
+
 <h1>v1.19.0</h1>
 
 **One new mod & mod updates!** <br />
