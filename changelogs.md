@@ -1,3 +1,95 @@
+<h1>v1.21.0</h1>
+
+> ### 🐦‍🔥 Update time! Many new mods, a lot of mod updates, changes & some fixes. <br />
+> ### Note: Expect "missing mods" when loading into existing worlds. This is normal. <br />
+
+**Always do a fresh install when updating the pack between versions to avoid issues!** <br />
+**Please: Remember to always backup your world(s) before updating!**
+
+
+### **Added**
+- [Chat Heads](https://www.curseforge.com/minecraft/mc-mods/chat-heads)
+- [Configured Defaults](https://www.curseforge.com/minecraft/mc-mods/configured-defaults)
+- [Dynamic FPS](https://www.curseforge.com/minecraft/mc-mods/dynamic-fps)
+- [Gendustry: Community Edition](https://www.curseforge.com/minecraft/mc-mods/gendustry-community-edition)
+- [Immersive Petroleum](https://www.curseforge.com/minecraft/mc-mods/immersive-petroleum)
+- [Just Enough Botania](https://www.curseforge.com/minecraft/mc-mods/just-enough-botania)
+- [Missing Mods Warning](https://www.curseforge.com/minecraft/mc-mods/missing-mods-warning)
+- [Mo' Bees](https://www.curseforge.com/minecraft/mc-mods/mo-bees)
+- [Not Enough Recipe Book](https://www.curseforge.com/minecraft/mc-mods/notenoughrecipebook)
+- [Psi](https://www.curseforge.com/minecraft/mc-mods/psi)
+- [Tag Localizations](https://www.curseforge.com/minecraft/mc-mods/tag-localizations-fixes)
+
+
+### **Removed**
+- [Cardiac](https://www.curseforge.com/minecraft/mc-mods/cardiac) <br />
+  (Reason: Too many particles when killing mobs with a large health pool, causing lag.) <br />
+- [Create Central Kitchen](https://www.curseforge.com/minecraft/mc-mods/create-central-kitchen) <br />
+  (Reason: Crashes. Not compatible with latest version of Create.)
+- [DefaultSettings](https://www.curseforge.com/minecraft/mc-mods/defaultsettings) <br />
+  (Reason: Replaced by [Configured Defaults](https://www.curseforge.com/minecraft/mc-mods/configured-defaults).)
+- [ElementalCraft](https://www.curseforge.com/minecraft/mc-mods/elemental-craft) <br />
+  (Reason: Crashes. It's in alpha, no updates since 2023 and now no longer works.)
+- [FPS Reducer](https://www.curseforge.com/minecraft/mc-mods/fps-reducer) <br />
+  (Reason: Replaced by [Dynamic FPS](https://www.curseforge.com/minecraft/mc-mods/dynamic-fps).)
+- [MixinExtras](https://github.com/LlamaLad7/MixinExtras)
+
+
+### **Notable Changes**
+- If a mod has been removed a warning will now be displayed in the world select screen & upon entering it.
+- Normal seeds (vanilla or any modded one) will now no longer get converted to @AgriCraft upon planting. <br />
+  (Note: Use the "Seed Analyzer" to get @AgriCraft seed variants now.)
+- Options, Keybinds, Journey Map & ESM configs are now properly preserved on modpack updates.
+- The @Journey Map "death points" are now automatically removed when within 2 blocks of one.
+- @Botania recipes in @JEI now show the required amount of mana to craft something.
+- Mods that "break" the pack are now locked if viewed in the CurseForge Launcher.
+- Disabled the default Recipe Book functionality entirely, improving performance. <br />
+  (Note: Button now instead toggles @JEI's visibility when clicked.)
+- Disabled duplicate Durability Tooltip on @Mekanism tools and gear.
+- Filtered out lots of unneeded errors from latest.log & console.
+- Player Heads now appear next to chat messages.
+- Lowered the Ender Dragon "growl" volume.
+- (!) Changes in mod updates not noted here, as always.
+
+
+### **Notable Fixes**
+- Fixed a case where the "Enchanted Grave Key" wasn't given out on death.
+- Fixed ore placement errors in the Overworld Mining Dimension.
+- Fixed the "Raw Withering Processor" recipe.
+- Various localization fixes to tags.
+- Fixed some unlocalized tooltips.
+- (!) Too many fixes to write, but rest assured there are many.
+
+
+### **Quests**
+- Minor fixes.
+
+
+### **Updated**
+- Updated Forge from version 47.4.2 to 47.4.10.
+- All mods that could be updated have been updated, here's a complete list: [click me!]()
+
+
+### **Notes**
+- Expect "missing mods" when loading into existing worlds this update. This is normal!
+
+### **Current Forge Version**
+- 47.4.10
+
+
+### **Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.gg/gwzpyQb) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-7/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz?r=GitHub)
+
+---------------
+
 <h1>v1.20.0</h1>
 
 > ### **Big update!**
