@@ -67,7 +67,7 @@
 
 ### **Updated**
 - Updated Forge from version 47.4.2 to 47.4.10.
-- All mods that could be updated have been updated, here's a complete list: [click me!]()
+- All mods that could be updated have been updated, here's a complete list: [click me!](https://gist.github.com/Gbergz/bf1df2e0a534b3e5be03b50223825813)
 
 
 ### **Notes**
