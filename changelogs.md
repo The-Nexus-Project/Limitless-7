@@ -86,7 +86,7 @@
 
 **Get 25% off any game servers on your first month!**
 
-**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz?r=GitHub)
+**Code: TNP |** [Bisecthosting.com/TNP](https://bisecthosting.com/tnp?r=GitHub)
 
 ---------------
 
@@ -181,7 +181,7 @@
 
 **Get 25% off any game servers on your first month!**
 
-**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz?r=GitHub)
+**Code: TNP |** [Bisecthosting.com/TNP](https://bisecthosting.com/tnp?r=GitHub)
 
 ---------------
 
@@ -231,7 +231,7 @@
 
 **Get 25% off any game servers on your first month!**
 
-**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+**Code: TNP |** [Bisecthosting.com/TNP](https://bisecthosting.com/tnp)
 
 ---------------
 
@@ -275,7 +275,7 @@
 
 **Get 25% off any game servers on your first month!**
 
-**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+**Code: TNP |** [Bisecthosting.com/TNP](https://bisecthosting.com/tnp)
 
 ---------------
 
@@ -320,7 +320,7 @@
 
 **Get 25% off any game servers on your first month!**
 
-**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+**Code: TNP |** [Bisecthosting.com/TNP](https://bisecthosting.com/tnp)
 
 ---------------
 
@@ -364,7 +364,7 @@
 
 **Get 25% off any game servers on your first month!**
 
-**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+**Code: TNP |** [Bisecthosting.com/TNP](https://bisecthosting.com/tnp)
 
 ---------------
 
@@ -403,7 +403,7 @@
 
 **Get 25% off any game servers on your first month!**
 
-**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+**Code: TNP |** [Bisecthosting.com/TNP](https://bisecthosting.com/tnp)
 
 ---------------
 
@@ -458,7 +458,7 @@
 
 **Get 25% off any game servers on your first month!**
 
-**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+**Code: TNP |** [Bisecthosting.com/TNP](https://bisecthosting.com/tnp)
 
 ---------------
 
@@ -491,7 +491,7 @@
 
 **Get 25% off any game servers on your first month!**
 
-**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+**Code: TNP |** [Bisecthosting.com/TNP](https://bisecthosting.com/tnp)
 
 ---------------
 
@@ -520,7 +520,7 @@
 
 **Get 25% off any game servers on your first month!**
 
-**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+**Code: TNP |** [Bisecthosting.com/TNP](https://bisecthosting.com/tnp)
 
 ---------------
 
@@ -581,7 +581,7 @@
 
 **Get 25% off any game servers on your first month!**
 
-**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+**Code: TNP |** [Bisecthosting.com/TNP](https://bisecthosting.com/tnp)
 
 ---------------
 
@@ -634,7 +634,7 @@
 
 **Get 25% off any game servers on your first month!**
 
-**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+**Code: TNP |** [Bisecthosting.com/TNP](https://bisecthosting.com/tnp)
 
 ---------------
 
@@ -693,7 +693,7 @@
 
 **Get 25% off any game servers on your first month!**
 
-**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+**Code: TNP |** [Bisecthosting.com/TNP](https://bisecthosting.com/tnp)
 
 ---------------
 
@@ -777,7 +777,7 @@
 
 **Get 25% off any game servers on your first month!**
 
-**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+**Code: TNP |** [Bisecthosting.com/TNP](https://bisecthosting.com/tnp)
 
 ---------------
 
@@ -839,7 +839,7 @@
 
 **Get 25% off any game servers on your first month!**
 
-**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+**Code: TNP |** [Bisecthosting.com/TNP](https://bisecthosting.com/tnp)
 
 ---------------
 
@@ -901,7 +901,7 @@
 
 **Get 25% off any game servers on your first month!**
 
-**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+**Code: TNP |** [Bisecthosting.com/TNP](https://bisecthosting.com/tnp)
 
 ---------------
 
@@ -978,7 +978,7 @@
 
 **Get 25% off any game servers on your first month!**
 
-**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+**Code: TNP |** [Bisecthosting.com/TNP](https://bisecthosting.com/tnp)
 
 ---------------
 
@@ -1043,7 +1043,7 @@
 
 **Get 25% off any game servers on your first month!**
 
-**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+**Code: TNP |** [Bisecthosting.com/TNP](https://bisecthosting.com/tnp)
 
 ---------------
 
@@ -1116,7 +1116,7 @@
 
 **Get 25% off any game servers on your first month!**
 
-**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+**Code: TNP |** [Bisecthosting.com/TNP](https://bisecthosting.com/tnp)
 
 ---------------
 
@@ -1183,7 +1183,7 @@
 
 **Get 25% off any game servers on your first month!**
 
-**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+**Code: TNP |** [Bisecthosting.com/TNP](https://bisecthosting.com/tnp)
 
 ---------------
 
@@ -1242,7 +1242,7 @@
 
 **Get 25% off any game servers on your first month!**
 
-**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+**Code: TNP |** [Bisecthosting.com/TNP](https://bisecthosting.com/tnp)
 
 ---------------
 
@@ -1349,7 +1349,7 @@
 
 **Get 25% off any game servers on your first month!**
 
-**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+**Code: TNP |** [Bisecthosting.com/TNP](https://bisecthosting.com/tnp)
 
 ---------------
 
@@ -1387,7 +1387,7 @@
 
 **Get 25% off any game servers on your first month!**
 
-**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+**Code: TNP |** [Bisecthosting.com/TNP](https://bisecthosting.com/tnp)
 
 ---------------
 
@@ -1471,7 +1471,7 @@
 
 **Get 25% off any game servers on your first month!**
 
-**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+**Code: TNP |** [Bisecthosting.com/TNP](https://bisecthosting.com/tnp)
 
 ---------------
 
@@ -1545,7 +1545,7 @@
 
 **Get 25% off any game servers on your first month!**
 
-**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+**Code: TNP |** [Bisecthosting.com/TNP](https://bisecthosting.com/tnp)
 
 ---------------
 
@@ -1626,7 +1626,7 @@
 
 **Get 25% off any game servers on your first month!**
 
-**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+**Code: TNP |** [Bisecthosting.com/TNP](https://bisecthosting.com/tnp)
 
 ---------------
 
@@ -1723,7 +1723,7 @@
 
 **Get 25% off any game servers on your first month!**
 
-**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+**Code: TNP |** [Bisecthosting.com/TNP](https://bisecthosting.com/tnp)
 
 ---------------
 
@@ -1748,7 +1748,7 @@ It's recommended to update if you're on 0.37.0.
 
 **Get 25% off any game servers on your first month!**
 
-**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+**Code: TNP |** [Bisecthosting.com/TNP](https://bisecthosting.com/tnp)
 
 <h1>v0.37.0</h1>
 
@@ -1818,7 +1818,7 @@ It's recommended to update if you're on 0.37.0.
 
 **Get 25% off any game servers on your first month!**
 
-**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+**Code: TNP |** [Bisecthosting.com/TNP](https://bisecthosting.com/tnp)
 
 ---------------
 
@@ -1897,7 +1897,7 @@ It's recommended to update if you're on 0.37.0.
 
 **Get 25% off any game servers on your first month!**
 
-**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+**Code: TNP |** [Bisecthosting.com/TNP](https://bisecthosting.com/tnp)
 
 ---------------
 
@@ -1931,7 +1931,7 @@ It's recommended to update if you're on 0.37.0.
 
 **Get 25% off any game servers on your first month!**
 
-**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+**Code: TNP |** [Bisecthosting.com/TNP](https://bisecthosting.com/tnp)
 
 ---------------
 
@@ -1999,7 +1999,7 @@ It's recommended to update if you're on 0.37.0.
 
 **Get 25% off any game servers on your first month!**
 
-**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+**Code: TNP |** [Bisecthosting.com/TNP](https://bisecthosting.com/tnp)
 
 ---------------
 
@@ -2081,7 +2081,7 @@ It's recommended to update if you're on 0.37.0.
 
 **Get 25% off any game servers on your first month!**
 
-**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+**Code: TNP |** [Bisecthosting.com/TNP](https://bisecthosting.com/tnp)
 
 ---------------
 
@@ -2142,7 +2142,7 @@ It's recommended to update if you're on 0.37.0.
 
 **Get 25% off any game servers on your first month!**
 
-**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+**Code: TNP |** [Bisecthosting.com/TNP](https://bisecthosting.com/tnp)
 
 ---------------
 <h1>v0.32.0</h1>
@@ -2199,7 +2199,7 @@ It's recommended to update if you're on 0.37.0.
 
 **Get 25% off any game servers on your first month!**
 
-**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+**Code: TNP |** [Bisecthosting.com/TNP](https://bisecthosting.com/tnp)
 
 ---------------
 
@@ -2237,7 +2237,7 @@ It's recommended to update if you're on 0.37.0.
 
 **Get 25% off any game servers on your first month!**
 
-**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+**Code: TNP |** [Bisecthosting.com/TNP](https://bisecthosting.com/tnp)
 
 ---------------
 
@@ -2313,7 +2313,7 @@ It's recommended to update if you're on 0.37.0.
 
 **Get 25% off any game servers on your first month!**
 
-**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+**Code: TNP |** [Bisecthosting.com/TNP](https://bisecthosting.com/tnp)
 
 ---------------
 
@@ -2377,7 +2377,7 @@ It's recommended to update if you're on 0.37.0.
 
 **Get 25% off any game servers on your first month!**
 
-**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+**Code: TNP |** [Bisecthosting.com/TNP](https://bisecthosting.com/tnp)
 
 ---------------
 
@@ -2460,7 +2460,7 @@ It's recommended to update if you're on 0.37.0.
 
 **Get 25% off any game servers on your first month!**
 
-**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+**Code: TNP |** [Bisecthosting.com/TNP](https://bisecthosting.com/tnp)
 
 ---------------
 
@@ -2528,7 +2528,7 @@ It's recommended to update if you're on 0.37.0.
 
 **Get 25% off any game servers on your first month!**
 
-**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+**Code: TNP |** [Bisecthosting.com/TNP](https://bisecthosting.com/tnp)
 
 ---------------
 
@@ -2599,7 +2599,7 @@ It's recommended to update if you're on 0.37.0.
 
 **Get 25% off any game servers on your first month!**
 
-**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+**Code: TNP |** [Bisecthosting.com/TNP](https://bisecthosting.com/tnp)
 
 ---------------
 
@@ -2672,7 +2672,7 @@ It's recommended to update if you're on 0.37.0.
 
 **Get 25% off any game servers on your first month!**
 
-**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+**Code: TNP |** [Bisecthosting.com/TNP](https://bisecthosting.com/tnp)
 
 ---------------
 
@@ -2755,7 +2755,7 @@ It's recommended to update if you're on 0.37.0.
 
 **Get 25% off any game servers on your first month!**
 
-**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+**Code: TNP |** [Bisecthosting.com/TNP](https://bisecthosting.com/tnp)
 
 ---------------
 
@@ -2821,7 +2821,7 @@ It's recommended to update if you're on 0.37.0.
 
 **Get 25% off any game servers on your first month!**
 
-**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+**Code: TNP |** [Bisecthosting.com/TNP](https://bisecthosting.com/tnp)
 
 ---------------
 
@@ -2899,7 +2899,7 @@ It's recommended to update if you're on 0.37.0.
 
 **Get 25% off any game servers on your first month!**
 
-**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+**Code: TNP |** [Bisecthosting.com/TNP](https://bisecthosting.com/tnp)
 
 ---------------
 
@@ -2960,7 +2960,7 @@ It's recommended to update if you're on 0.37.0.
 
 **Get 25% off any game servers on your first month!**
 
-**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+**Code: TNP |** [Bisecthosting.com/TNP](https://bisecthosting.com/tnp)
 
 ---------------
 
@@ -3037,7 +3037,7 @@ It's recommended to update if you're on 0.37.0.
 
 **Get 25% off any game servers on your first month!**
 
-**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+**Code: TNP |** [Bisecthosting.com/TNP](https://bisecthosting.com/tnp)
 
 ---------------
 
@@ -3084,7 +3084,7 @@ It's recommended to update if you're on 0.37.0.
 
 **Get 25% off any game servers on your first month!**
 
-**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+**Code: TNP |** [Bisecthosting.com/TNP](https://bisecthosting.com/tnp)
 
 ---------------
 
@@ -3161,7 +3161,7 @@ It's recommended to update if you're on 0.37.0.
 
 **Get 25% off any game servers on your first month!**
 
-**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+**Code: TNP |** [Bisecthosting.com/TNP](https://bisecthosting.com/tnp)
 
 ---------------
 
@@ -3226,7 +3226,7 @@ It's recommended to update if you're on 0.37.0.
 
 **Get 25% off any game servers on your first month!**
 
-**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+**Code: TNP |** [Bisecthosting.com/TNP](https://bisecthosting.com/tnp)
 
 ---------------
 
@@ -3298,7 +3298,7 @@ It's recommended to update if you're on 0.37.0.
 
 **Get 25% off any game servers on your first month!**
 
-**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+**Code: TNP |** [Bisecthosting.com/TNP](https://bisecthosting.com/tnp)
 
 ---------------
 
@@ -3361,7 +3361,7 @@ It's recommended to update if you're on 0.37.0.
 
 **Get 25% off any game servers on your first month!**
 
-**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+**Code: TNP |** [Bisecthosting.com/TNP](https://bisecthosting.com/tnp)
 
 ---------------
 
@@ -3433,7 +3433,7 @@ It's recommended to update if you're on 0.37.0.
 
 **Get 25% off any game servers on your first month!**
 
-**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+**Code: TNP |** [Bisecthosting.com/TNP](https://bisecthosting.com/tnp)
 
 ---------------
 
@@ -3495,7 +3495,7 @@ It's recommended to update if you're on 0.37.0.
 
 **Get 25% off any game servers on your first month!**
 
-**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+**Code: TNP |** [Bisecthosting.com/TNP](https://bisecthosting.com/tnp)
 
 ---------------
 
@@ -3533,7 +3533,7 @@ It's recommended to update if you're on 0.37.0.
 
 **Get 25% off any game servers on your first month!**
 
-**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+**Code: TNP |** [Bisecthosting.com/TNP](https://bisecthosting.com/tnp)
 
 ---------------
 
@@ -3605,7 +3605,7 @@ It's recommended to update if you're on 0.37.0.
 
 **Get 25% off any game servers on your first month!**
 
-**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+**Code: TNP |** [Bisecthosting.com/TNP](https://bisecthosting.com/tnp)
 
 ---------------
 
@@ -3667,7 +3667,7 @@ It's recommended to update if you're on 0.37.0.
 
 **Get 25% off any game servers on your first month!**
 
-**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+**Code: TNP |** [Bisecthosting.com/TNP](https://bisecthosting.com/tnp)
 
 ---------------
 
@@ -3730,7 +3730,7 @@ It's recommended to update if you're on 0.37.0.
 
 **Get 25% off any game servers on your first month!**
 
-**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+**Code: TNP |** [Bisecthosting.com/TNP](https://bisecthosting.com/tnp)
 
 ---------------
 
@@ -3801,7 +3801,7 @@ It's recommended to update if you're on 0.37.0.
 
 **Get 25% off any game servers on your first month!**
 
-**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+**Code: TNP |** [Bisecthosting.com/TNP](https://bisecthosting.com/tnp)
 
 ---------------
 
@@ -3858,7 +3858,7 @@ It's recommended to update if you're on 0.37.0.
 
 **Get 25% off any game servers on your first month!**
 
-**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+**Code: TNP |** [Bisecthosting.com/TNP](https://bisecthosting.com/tnp)
 
 ---------------
 
@@ -3930,7 +3930,7 @@ It's recommended to update if you're on 0.37.0.
 
 **Get 25% off any game servers on your first month!**
 
-**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+**Code: TNP |** [Bisecthosting.com/TNP](https://bisecthosting.com/tnp)
 
 ---------------
 
@@ -4001,7 +4001,7 @@ It's recommended to update if you're on 0.37.0.
 
 **Get 25% off any game servers on your first month!**
 
-**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+**Code: TNP |** [Bisecthosting.com/TNP](https://bisecthosting.com/tnp)
 
 ---------------
 
@@ -4039,7 +4039,7 @@ It's recommended to update if you're on 0.37.0.
 
 **Get 25% off any game servers on your first month!**
 
-**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+**Code: TNP |** [Bisecthosting.com/TNP](https://bisecthosting.com/tnp)
 
 ---------------
 
@@ -4111,7 +4111,7 @@ It's recommended to update if you're on 0.37.0.
 
 **Get 25% off any game servers on your first month!**
 
-**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+**Code: TNP |** [Bisecthosting.com/TNP](https://bisecthosting.com/tnp)
 
 ---------------
 
@@ -4190,7 +4190,7 @@ It's recommended to update if you're on 0.37.0.
 
 **Get 25% off any game servers on your first month!**
 
-**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+**Code: TNP |** [Bisecthosting.com/TNP](https://bisecthosting.com/tnp)
 
 ---------------
 
@@ -4261,7 +4261,7 @@ It's recommended to update if you're on 0.37.0.
 
 **Get 25% off any game servers on your first month!**
 
-**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+**Code: TNP |** [Bisecthosting.com/TNP](https://bisecthosting.com/tnp)
 
 ---------------
 
@@ -4340,7 +4340,7 @@ It's recommended to update if you're on 0.37.0.
 
 **Get 25% off any game servers on your first month!**
 
-**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+**Code: TNP |** [Bisecthosting.com/TNP](https://bisecthosting.com/tnp)
 
 ---------------
 
@@ -4411,7 +4411,7 @@ It's recommended to update if you're on 0.37.0.
 
 **Get 25% off any game servers on your first month!**
 
-**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+**Code: TNP |** [Bisecthosting.com/TNP](https://bisecthosting.com/tnp)
 
 ---------------
 
@@ -4482,7 +4482,7 @@ It's recommended to update if you're on 0.37.0.
 
 **Get 25% off any game servers on your first month!**
 
-**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+**Code: TNP |** [Bisecthosting.com/TNP](https://bisecthosting.com/tnp)
 
 ---------------
 
@@ -4500,4 +4500,4 @@ It's recommended to update if you're on 0.37.0.
 
 **Get 25% off any game servers on your first month!**
 
-**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+**Code: TNP |** [Bisecthosting.com/TNP](https://bisecthosting.com/tnp)
